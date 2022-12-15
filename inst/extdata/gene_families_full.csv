@@ -1,0 +1,3209 @@
+﻿potassium_channel,6TM,Shk/Kv1,,,shk-1
+potassium_channel,6TM,Shab/Kv2,,,exp-2
+potassium_channel,6TM,Shab/Kv2,,,kvs-1
+potassium_channel,6TM,Shab/Kv2,,,kvs-2
+potassium_channel,6TM,Shab/Kv2,,,kvs-3
+potassium_channel,6TM,Shab/Kv2,,,kvs-4
+potassium_channel,6TM,Shab/Kv2,,,kvs-5
+potassium_channel,6TM,Shaw/Kv3,,,shw-1
+potassium_channel,6TM,Shaw/Kv3,,,egl-36
+potassium_channel,6TM,Shaw/Kv3,,,shw-3
+potassium_channel,6TM,Shal/Kv4,,,shl-1
+potassium_channel,6TM,KQT,,,kqt-1
+potassium_channel,6TM,KQT,,,kqt-2
+potassium_channel,6TM,KQT,,,kqt-3
+potassium_channel,6TM,Eag/Kv10,,,egl-2
+potassium_channel,6TM,Eag/Kv10,,,unc-103
+potassium_channel,6TM,Slo,,,slo-1 (nsy-3)
+potassium_channel,6TM,Slo,,,slo-2
+potassium_channel,6TM,SK,,,kcnl-1
+potassium_channel,6TM,SK,,,kcnl-2
+potassium_channel,6TM,SK,,,kcnl-3
+potassium_channel,6TM,SK,,,kcnl-4
+potassium_channel,4TM,TWK,,,egl-23 (twk-41)
+potassium_channel,4TM,TWK,,,sup-9 (twk-38)
+potassium_channel,4TM,TWK,,,unc-58
+potassium_channel,4TM,TWK,,,unc-110 (twk-18)
+potassium_channel,4TM,TWK,,,twk-1
+potassium_channel,4TM,TWK,,,twk-2
+potassium_channel,4TM,TWK,,,twk-3
+potassium_channel,4TM,TWK,,,twk-4
+potassium_channel,4TM,TWK,,,twk-5
+potassium_channel,4TM,TWK,,,twk-6
+potassium_channel,4TM,TWK,,,twk-7
+potassium_channel,4TM,TWK,,,twk-8 (twk-19)
+potassium_channel,4TM,TWK,,,twk-9
+potassium_channel,4TM,TWK,,,twk-10
+potassium_channel,4TM,TWK,,,twk-11
+potassium_channel,4TM,TWK,,,twk-12
+potassium_channel,4TM,TWK,,,twk-13 (twk-15)
+potassium_channel,4TM,TWK,,,twk-14
+potassium_channel,4TM,TWK,,,twk-16
+potassium_channel,4TM,TWK,,,twk-17
+potassium_channel,4TM,TWK,,,twk-20
+potassium_channel,4TM,TWK,,,twk-21
+potassium_channel,4TM,TWK,,,twk-22
+potassium_channel,4TM,TWK,,,twk-23
+potassium_channel,4TM,TWK,,,twk-24
+potassium_channel,4TM,TWK,,,twk-25
+potassium_channel,4TM,TWK,,,twk-26
+potassium_channel,4TM,TWK,,,twk-28
+potassium_channel,4TM,TWK,,,twk-29
+potassium_channel,4TM,TWK,,,twk-30
+potassium_channel,4TM,TWK,,,twk-31
+potassium_channel,4TM,TWK,,,twk-32
+potassium_channel,4TM,TWK,,,twk-33
+potassium_channel,4TM,TWK,,,twk-34
+potassium_channel,4TM,TWK,,,twk-35
+potassium_channel,4TM,TWK,,,twk-36
+potassium_channel,4TM,TWK,,,twk-37
+potassium_channel,4TM,TWK,,,twk-39
+potassium_channel,4TM,TWK,,,twk-40
+potassium_channel,4TM,TWK,,,twk-42
+potassium_channel,4TM,TWK,,,twk-43
+potassium_channel,4TM,TWK,,,twk-44
+potassium_channel,4TM,TWK,,,twk-45
+potassium_channel,4TM,TWK,,,twk-46
+potassium_channel,4TM,TWK,,,twk-47
+potassium_channel,4TM,TWK,,,twk-48
+potassium_channel,4TM,TWK,,,twk-49
+potassium_channel,2TM,Kir,,,irk-1
+potassium_channel,2TM,Kir,,,irk-2
+potassium_channel,2TM,Kir,,,irk-3
+aux_su,Voltage-gated K+ channels,,,,mps-1
+aux_su,Voltage-gated K+ channels,,,,mps-2
+aux_su,Voltage-gated K+ channels,,,,mps-3
+aux_su,Voltage-gated K+ channels,,,,mps-4
+aux_su,Voltage-gated K+ channels,,,,K01A2.9
+aux_su,Voltage-gated K+ channels,,,,K01A2.12
+aux_su,Voltage-gated K+ channels,,,,K01A2.3
+aux_su,Voltage-gated K+ channels,,,,K01A2.4
+aux_su,Voltage-gated K+ channels,,,,C25A8.2
+aux_su,Voltage-gated K+ channels,,,,R02D5.7
+aux_su,Voltage-gated K+ channels,,,,F30A10.12
+aux_su,Voltage-gated K+ channels,,,,F53G12.8
+aux_su,Voltage-gated K+ channels,,,,sssh-1
+aux_su,Voltage-gated K+ channels,,,,ncs-6
+aux_su,Voltage-gated K+ channels,,,,ncs-7
+aux_su,Voltage-gated K+ channels,,,,ncs-8
+aux_su,Voltage-gated K+ channels,,,,ncs-9
+aux_su,Voltage-gated K+ channels,,,,dpf-1
+aux_su,Voltage-gated K+ channels,,,,dpf-2
+aux_su,Voltage-gated K+ channels,,,,dfp-3
+aux_su,Voltage-gated K+ channels,,,,dpf-4
+aux_su,Voltage-gated K+ channels,,,,dpf-5
+aux_su,Voltage-gated K+ channels,,,,dpf-6
+aux_su,Voltage-gated K+ channels,,,,dpf-7
+aux_su,Voltage-gated K+ channels,,,,mec-14
+aux_su,Voltage-gated K+ channels,,,,ctf-1
+aux_su,Voltage-gated K+ channels,,,,mrp-1
+aux_su,Voltage-gated K+ channels,,,,mrp-2
+aux_su,Voltage-gated K+ channels,,,,mrp-3
+aux_su,Voltage-gated K+ channels,,,,mrp-4
+aux_su,Voltage-gated K+ channels,,,,mrp-7
+aux_su,Voltage-gated K+ channels,,,,mrp-8
+aux_su,Voltage-gated K+ channels,,,,mrp-5
+aux_su,Voltage-gated K+ channels,,,,mrp-6
+aux_su,Voltage-gated K+ channels,,,,bkip-1
+aux_su,TWK-type potassium channels,,,,sup-10
+aux_su,TWK-type potassium channels,,,,unc-93
+aux_su,TWK-type potassium channels,,,,Y39B6A.27
+aux_su,TWK-type potassium channels,,,,Y39B6A.29
+aux_su,TWK-type potassium channels,,,,Y37A1A.2
+aux_su,TWK-type potassium channels,,,,ZK6.6
+aux_su,TWK-type potassium channels,,,,ZK6.8
+aux_su,TWK-type potassium channels,,,,B0554.5
+aux_su,TWK-type potassium channels,,,,B0554.7
+aux_su,TWK-type potassium channels,,,,C08D8.1
+aux_su,TWK-type potassium channels,,,,C27C12.4
+aux_su,TWK-type potassium channels,,,,F31D5.2
+aux_su,TWK-type potassium channels,,,,F31D5.1
+aux_su,TWK-type potassium channels,,,,M153.2
+aux_su,TWK-type potassium channels,,,,Y11D7A.3
+aux_su,TWK-type potassium channels,,,,Y39D8A.1
+aux_su,TWK-type potassium channels,,,,Y52E8A.4
+aux_su,TWK-type potassium channels,,,,F36G9.3
+aux_su,Voltage-gated calcium channels,,,,unc-79
+aux_su,Voltage-gated calcium channels,,,,unc-80
+aux_su,nAChR LGIC,,,,lev-9
+aux_su,nAChR LGIC,,,,T07H6.4
+aux_su,nAChR LGIC,,,,lev-10
+aux_su,nAChR LGIC,,,,mig-13
+aux_su,nAChR LGIC,,,,neto-1
+aux_su,nAChR LGIC,,,,K05C4.11
+aux_su,nAChR LGIC,,,,molo-1
+aux_su,nAChR LGIC,,,,R02D5.3
+aux_su,nAChR LGIC,,,,F15B9.10
+aux_su,nAChR LGIC,,,,F01D5.6
+aux_su,nAChR LGIC,,,,Y54E2A.10
+aux_su,nAChR LGIC,,,,Y12A6A.1
+aux_su,nAChR LGIC,,,,C09B8.3
+aux_su,nAChR LGIC,,,,lurp-1
+aux_su,nAChR LGIC,,,,lurp-2
+aux_su,nAChR LGIC,,,,lurp-3
+aux_su,nAChR LGIC,,,,lurp-4
+aux_su,nAChR LGIC,,,,odr-2
+aux_su,nAChR LGIC,,,,hot-1
+aux_su,nAChR LGIC,,,,hot-2
+aux_su,nAChR LGIC,,,,hot-3
+aux_su,nAChR LGIC,,,,hot-4
+aux_su,nAChR LGIC,,,,hot-5
+aux_su,nAChR LGIC,,,,hot-6
+aux_su,nAChR LGIC,,,,hot-7
+aux_su,nAChR LGIC,,,,hot-8
+aux_su,nAChR LGIC,,,,hot-9
+aux_su,AMPA-type Glu receptors (TARPs),,,,sol-1
+aux_su,AMPA-type Glu receptors (TARPs),,,,stg-1
+aux_su,AMPA-type Glu receptors (TARPs),,,,stg-2
+aux_su,AMPA-type Glu receptors (TARPs),,,,lev-10
+aux_su,AMPA-type Glu receptors (TARPs),,,,mig-13
+aux_su,AMPA-type Glu receptors (TARPs),,,,neto-1
+aux_su,AMPA-type Glu receptors (TARPs),,,,K05C4.11
+aux_su,AMPA-type Glu receptors (TARPs),,,,cni-1
+aux_su,DEG/ENaC channels (and perhaps TRP),,,,mec-2
+aux_su,DEG/ENaC channels (and perhaps TRP),,,,unc-1
+aux_su,DEG/ENaC channels (and perhaps TRP),,,,unc-24
+aux_su,DEG/ENaC channels (and perhaps TRP),,,,stl-1
+aux_su,DEG/ENaC channels (and perhaps TRP),,,,sto-1
+aux_su,DEG/ENaC channels (and perhaps TRP),,,,sto-2
+aux_su,DEG/ENaC channels (and perhaps TRP),,,,sto-3
+aux_su,DEG/ENaC channels (and perhaps TRP),,,,sto-4
+aux_su,DEG/ENaC channels (and perhaps TRP),,,,sto-5
+aux_su,DEG/ENaC channels (and perhaps TRP),,,,sto-6
+vgcc,alpha1,HVA: L-type,,,egl-19
+vgcc,alpha1,HVA: non-L-type,,,unc-2
+vgcc,alpha1,LVA: T-type,,,cca-1
+vgcc,alpha1,α1U type,,,nca-1
+vgcc,alpha1,α1U type,,,nca-2
+vgcc,alpha2delta,,,,unc-36
+vgcc,alpha2delta,,,,tag-180
+vgcc,beta,,,,ccb-1
+vgcc,beta,,,,ccb-2
+SLC_transp,SLC17: Vesicular glutamate transporter family (14 genes),SLC17A6-8,,,eat-4
+SLC_transp,SLC17: Vesicular glutamate transporter family (14 genes),,,,vglu-2
+SLC_transp,SLC17: Vesicular glutamate transporter family (14 genes),,,,vglu-3
+SLC_transp,SLC17: Vesicular glutamate transporter family (14 genes),,,,ZK54.1
+SLC_transp,SLC17: Vesicular glutamate transporter family (14 genes),SLC17A1-5,,,C38C10.2
+SLC_transp,SLC17: Vesicular glutamate transporter family (14 genes),SLC17A9,,,vnut-1
+SLC_transp,SLC17: Vesicular glutamate transporter family (14 genes),"no specific subfamily, worm-specific expansion",,,C02C2.4
+SLC_transp,SLC17: Vesicular glutamate transporter family (14 genes),,,,T28F3.4
+SLC_transp,SLC17: Vesicular glutamate transporter family (14 genes),,,,F21F8.11
+SLC_transp,SLC17: Vesicular glutamate transporter family (14 genes),,,,F12B6.2
+SLC_transp,SLC17: Vesicular glutamate transporter family (14 genes),,,,ZK682.2
+SLC_transp,SLC17: Vesicular glutamate transporter family (14 genes),,,,F25G6.7
+SLC_transp,SLC17: Vesicular glutamate transporter family (14 genes),,,,T09B9.2
+SLC_transp,SLC17: Vesicular glutamate transporter family (14 genes),,,,F45E4.11
+SLC_transp,SLC18: Vesicular amine transporter family (2 genes),,,,cat-1
+SLC_transp,SLC18: Vesicular amine transporter family (2 genes),,,,unc-17
+SLC_transp,SLC32: Vesicular inhibitory amino acid transporter family (GABA & Glycine) (1 gene),,,,unc-47
+SLC_transp,SLC1: High-affinity glutamate and neutral amino acid transporter family (6 genes) (REUPTAKE),,,,glt-1
+SLC_transp,SLC1: High-affinity glutamate and neutral amino acid transporter family (6 genes) (REUPTAKE),,,,glt-3
+SLC_transp,SLC1: High-affinity glutamate and neutral amino acid transporter family (6 genes) (REUPTAKE),,,,glt-4
+SLC_transp,SLC1: High-affinity glutamate and neutral amino acid transporter family (6 genes) (REUPTAKE),,,,glt-5
+SLC_transp,SLC1: High-affinity glutamate and neutral amino acid transporter family (6 genes) (REUPTAKE),,,,glt-6
+SLC_transp,SLC1: High-affinity glutamate and neutral amino acid transporter family (6 genes) (REUPTAKE),,,,glt-7
+SLC_transp,SLC6: Na+/Cl- dependent neurotransmitter transporter family (17 genes) (REUPTAKE),"SLC6A2,3,4",,,dat-1
+SLC_transp,SLC6: Na+/Cl- dependent neurotransmitter transporter family (17 genes) (REUPTAKE),,,,mod-5
+SLC_transp,SLC6: Na+/Cl- dependent neurotransmitter transporter family (17 genes) (REUPTAKE),,,,snf-1
+SLC_transp,SLC6: Na+/Cl- dependent neurotransmitter transporter family (17 genes) (REUPTAKE),cluster 1,,,snf-2
+SLC_transp,SLC6: Na+/Cl- dependent neurotransmitter transporter family (17 genes) (REUPTAKE),,,,snf-3
+SLC_transp,SLC6: Na+/Cl- dependent neurotransmitter transporter family (17 genes) (REUPTAKE),cluster 1,,,snf-4
+SLC_transp,SLC6: Na+/Cl- dependent neurotransmitter transporter family (17 genes) (REUPTAKE),cluster 1,,,snf-5
+SLC_transp,SLC6: Na+/Cl- dependent neurotransmitter transporter family (17 genes) (REUPTAKE),,,,snf-6
+SLC_transp,SLC6: Na+/Cl- dependent neurotransmitter transporter family (17 genes) (REUPTAKE),cluster 1,,,snf-7
+SLC_transp,SLC6: Na+/Cl- dependent neurotransmitter transporter family (17 genes) (REUPTAKE),cluster 1,,,snf-8
+SLC_transp,SLC6: Na+/Cl- dependent neurotransmitter transporter family (17 genes) (REUPTAKE),cluster 1,,,snf-9
+SLC_transp,SLC6: Na+/Cl- dependent neurotransmitter transporter family (17 genes) (REUPTAKE),,,,snf-10
+SLC_transp,SLC6: Na+/Cl- dependent neurotransmitter transporter family (17 genes) (REUPTAKE),SLC6A1,,,snf-11 (gat-1)
+SLC_transp,SLC6: Na+/Cl- dependent neurotransmitter transporter family (17 genes) (REUPTAKE),,,,snf-12
+SLC_transp,SLC6: Na+/Cl- dependent neurotransmitter transporter family (17 genes) (REUPTAKE),low similarity,,,F56F4.3
+SLC_transp,SLC6: Na+/Cl- dependent neurotransmitter transporter family (17 genes) (REUPTAKE),,,,C09E8.1
+SLC_transp,SLC6: Na+/Cl- dependent neurotransmitter transporter family (17 genes) (REUPTAKE),,,,Y43D4A.1
+SLC_transp,SLC28: Na+ coupled nucleoside transporter family (2 genes) (REUPTAKE ?),,,,F27E11.1/slc-28.1
+SLC_transp,SLC28: Na+ coupled nucleoside transporter family (2 genes) (REUPTAKE ?),,,,F27E11.2/slc-28.2
+SLC_transp,"SLC29: Facilitative nucleoside transporters (includes low affinity, high capacity monoamine transporters) (7 genes) (REUPTAKE)",,,,ent-1
+SLC_transp,"SLC29: Facilitative nucleoside transporters (includes low affinity, high capacity monoamine transporters) (7 genes) (REUPTAKE)",,,,ent-2
+SLC_transp,"SLC29: Facilitative nucleoside transporters (includes low affinity, high capacity monoamine transporters) (7 genes) (REUPTAKE)",,,,ent-3
+SLC_transp,"SLC29: Facilitative nucleoside transporters (includes low affinity, high capacity monoamine transporters) (7 genes) (REUPTAKE)",,,,ent-4
+SLC_transp,"SLC29: Facilitative nucleoside transporters (includes low affinity, high capacity monoamine transporters) (7 genes) (REUPTAKE)",,,,ent-5
+SLC_transp,"SLC29: Facilitative nucleoside transporters (includes low affinity, high capacity monoamine transporters) (7 genes) (REUPTAKE)",,,,ent-6
+SLC_transp,"SLC29: Facilitative nucleoside transporters (includes low affinity, high capacity monoamine transporters) (7 genes) (REUPTAKE)",,,,ent-7
+SLC_transp,SLC8 & SLC24: Na+/Ca2+ exchanger & Na+/Ca2+-K+ exchanger (10 genes),SLC8,,,ncx-1
+SLC_transp,SLC8 & SLC24: Na+/Ca2+ exchanger & Na+/Ca2+-K+ exchanger (10 genes),,,,ncx-2
+SLC_transp,SLC8 & SLC24: Na+/Ca2+ exchanger & Na+/Ca2+-K+ exchanger (10 genes),,,,ncx-3
+SLC_transp,SLC8 & SLC24: Na+/Ca2+ exchanger & Na+/Ca2+-K+ exchanger (10 genes),SLC24,,,ncx-4
+SLC_transp,SLC8 & SLC24: Na+/Ca2+ exchanger & Na+/Ca2+-K+ exchanger (10 genes),,,,ncx-5
+SLC_transp,SLC8 & SLC24: Na+/Ca2+ exchanger & Na+/Ca2+-K+ exchanger (10 genes),,,,ncx-6
+SLC_transp,SLC8 & SLC24: Na+/Ca2+ exchanger & Na+/Ca2+-K+ exchanger (10 genes),,,,ncx-7
+SLC_transp,SLC8 & SLC24: Na+/Ca2+ exchanger & Na+/Ca2+-K+ exchanger (10 genes),,,,ncx-8
+SLC_transp,SLC8 & SLC24: Na+/Ca2+ exchanger & Na+/Ca2+-K+ exchanger (10 genes),,,,ncx-9
+SLC_transp,SLC8 & SLC24: Na+/Ca2+ exchanger & Na+/Ca2+-K+ exchanger (10 genes),,,,ncx-10
+SLC_transp,SLC30: cation diffusion facilitator (CDF) family (12 genes),"SLC30A2,3,4,8",,,cdf-2
+SLC_transp,SLC30: cation diffusion facilitator (CDF) family (12 genes),,,,ttm-1
+SLC_transp,SLC30: cation diffusion facilitator (CDF) family (12 genes),"SLC30A1,10",,,cdf-1
+SLC_transp,SLC30: cation diffusion facilitator (CDF) family (12 genes),"SLC30A5,7",,,Y105E8A.3
+SLC_transp,SLC30: cation diffusion facilitator (CDF) family (12 genes),SLC30A6,,,toc-1
+SLC_transp,SLC30: cation diffusion facilitator (CDF) family (12 genes),SLC30A9,,,Y71H2AM.9
+SLC_transp,SLC30: cation diffusion facilitator (CDF) family (12 genes),diverse,,,F41C6.7
+SLC_transp,SLC30: cation diffusion facilitator (CDF) family (12 genes),,,,F56C9.3
+SLC_transp,SLC30: cation diffusion facilitator (CDF) family (12 genes),,,,K07G5.5
+SLC_transp,SLC30: cation diffusion facilitator (CDF) family (12 genes),,,,PDB1.1
+SLC_transp,SLC30: cation diffusion facilitator (CDF) family (12 genes),,,,ZK185.5
+SLC_transp,SLC30: cation diffusion facilitator (CDF) family (12 genes),,,,R02F11.3
+SLC_transp,SLC12: cation-chloride cotransporter family (7 genes),SLC12A4-6,,,kcc-1
+SLC_transp,SLC12: cation-chloride cotransporter family (7 genes),,,,kcc-2
+SLC_transp,SLC12: cation-chloride cotransporter family (7 genes),,,,kcc-3
+SLC_transp,SLC12: cation-chloride cotransporter family (7 genes),"SLC12A1,2",,,nkcc-1
+SLC_transp,SLC12: cation-chloride cotransporter family (7 genes),,,,F10E7.9
+SLC_transp,SLC12: cation-chloride cotransporter family (7 genes),,,,B0303.11
+SLC_transp,SLC12: cation-chloride cotransporter family (7 genes),SLC12A9,,,T04B8.5
+SLC_transp,SLC4: Cl−–HCO3− exchangers (4 genes),SLC4A7-10,,,abts-1
+SLC_transp,SLC4: Cl−–HCO3− exchangers (4 genes),SLC4A11,,,abts-2
+SLC_transp,SLC4: Cl−–HCO3− exchangers (4 genes),,,,abts-3
+SLC_transp,SLC4: Cl−–HCO3− exchangers (4 genes),SLC4A1-3,,,abts-4
+calcium_binding,calmodulin,,,,cmd-1
+calcium_binding,calmodulin,,,,cal-1
+calcium_binding,calmodulin,,,,cal-2
+calcium_binding,calmodulin,,,,cal-3
+calcium_binding,calmodulin,,,,cal-4
+calcium_binding,calmodulin,,,,cal-5
+calcium_binding,calmodulin,,,,cal-6
+calcium_binding,calmodulin,,,,cal-7
+calcium_binding,calmodulin,,,,cal-8
+calcium_binding,NCS,,,,ncs-1
+calcium_binding,NCS,,,,ncs-2
+calcium_binding,NCS,,,,ncs-3
+calcium_binding,NCS,,,,ncs-4
+calcium_binding,NCS,,,,ncs-5
+calcium_binding,NCS,,,,ncs-6
+calcium_binding,NCS,,,,ncs-7
+calcium_binding,other,,,,cnb-1
+calcium_binding,other,,,,rsa-1
+calcium_binding,other,,,,C06G1.5
+calcium_binding,other,,,,T22D1.5
+calcium_binding,other,,,,cex-1
+calcium_binding,other,,,,cex-2
+calcium_binding,other,,,,efdh-1
+calcium_binding,other,,,,F59D6.7
+calcium_binding,other,,,,R08D7.5
+calcium_binding,other,,,,C56C10.9
+calcium_binding,other,,,,F55A11.1
+calcium_binding,other,,,,T04F3.4
+calcium_binding,other,,,,C29E4.14
+calcium_binding,other,,,,ZK856.8
+calcium_binding,other,,,,pbo-1
+calcium_binding,other,,,,F59D6.7
+calcium_binding,other,,,,micu-1
+calcium_binding,other,,,,calm-1
+calcium_binding,other,,,,calu-1
+calcium_binding,other,,,,calu-2
+calcium_binding,other,,,,nucb-1
+calcium_binding,other,,,,T04F8.6
+calcium_binding,other,,,,reps-1
+calcium_binding,other,,,,mlc-1
+calcium_binding,other,,,,mlc-2
+calcium_binding,other,,,,mlc-3
+calcium_binding,other,,,,mlc-4
+calcium_binding,other,,,,mlc-5
+calcium_binding,other,,,,mlc-6
+calcium_binding,other,,,,mlc-7
+calcium_binding,other,,,,tnc-1 (pat-10)
+calcium_binding,other,,,,tnc-2
+calcium_binding,other,,,,F43C9.2
+calcium_binding,other,,,,cbn-1
+calcium_binding,other,,,,B0563.7
+calcium_binding,other,,,,C50C3.5
+calcium_binding,other,,,,C56A3.6
+calcium_binding,other,,,,E02A10.3
+calcium_binding,other,,,,F23F1.2
+calcium_binding,other,,,,H10E21.4
+calcium_binding,other,,,,K03A1.4
+calcium_binding,other,,,,M04F3.4
+calcium_binding,other,,,,R09H10.6
+calcium_binding,other,,,,T03F1.11
+calcium_binding,other,,,,T04F3.4
+calcium_binding,other,,,,Y73C8B.5
+calcium_binding,other,,,,F16F9.3
+calcium_binding,other,,,,T09B4.4
+calcium_binding,other,,,,T02G5.2
+trp_channel,TRPV,,,,ocr-1
+trp_channel,TRPV,,,,ocr-2
+trp_channel,TRPV,,,,ocr-3
+trp_channel,TRPV,,,,ocr-4
+trp_channel,TRPV,,,,osm-9
+trp_channel,TRPP,,,,lov-1
+trp_channel,TRPP,,,,pkd-2
+trp_channel,TRPN,,,,trp-4
+trp_channel,TRPML,,,,cup-5
+trp_channel,TRPM,,,,ced-11
+trp_channel,TRPM,,,,gon-2
+trp_channel,TRPM,,,,gtl-1
+trp_channel,TRPM,,,,gtl-2
+trp_channel,TRPC,,,,trp-1
+trp_channel,TRPC,,,,trp-2
+trp_channel,TRPC,,,,spe-41 (trp-3)
+trp_channel,TRPA,,,,trpa-1
+trp_channel,TRPA,,,,trpa-2
+trp_channel,TRPM-related2 (TF315286),,,,trpl-1
+trp_channel,TRPM-related2 (TF315286),,,,trpl-2
+trp_channel,TRPM-related2 (TF315286),,,,trpl-3
+trp_channel,TRPM-related2 (TF315286),,,,trpl-4
+trp_channel,TRPM-related2 (TF315286),,,,trpl-5
+Cycli_nucleotide_gated_channel,α subunit,,,,tax-2
+Cycli_nucleotide_gated_channel,β subunit,,,,tax-4
+Cycli_nucleotide_gated_channel,α/β,,,,cng-1
+Cycli_nucleotide_gated_channel,α/β,,,,cng-2
+Cycli_nucleotide_gated_channel,α/β,,,,cng-3
+Cycli_nucleotide_gated_channel,α/β,,,,che-6
+nachr-type_lgc,,,,,acr-2
+nachr-type_lgc,,,,,acr-3
+nachr-type_lgc,,,,,acr-5
+nachr-type_lgc,,,,,acr-6
+nachr-type_lgc,,,,,acr-7
+nachr-type_lgc,,,,,acr-8
+nachr-type_lgc,,,,,acr-9
+nachr-type_lgc,,,,,acr-10
+nachr-type_lgc,,,,,acr-11
+nachr-type_lgc,,,,,acr-12
+nachr-type_lgc,,,,,acr-13/lev-8
+nachr-type_lgc,,,,,acr-14
+nachr-type_lgc,,,,,acr-15
+nachr-type_lgc,,,,,acr-16
+nachr-type_lgc,,,,,acr-17
+nachr-type_lgc,,,,,acr-18
+nachr-type_lgc,,,,,acr-19
+nachr-type_lgc,,,,,acr-20
+nachr-type_lgc,,,,,acr-21
+nachr-type_lgc,,,,,acr-23
+nachr-type_lgc,,,,,acr-24
+nachr-type_lgc,,,,,acr-25
+nachr-type_lgc,,,,,cup-4
+nachr-type_lgc,,,,,deg-3
+nachr-type_lgc,,,,,des-2/acr-4
+nachr-type_lgc,,,,,eat-2
+nachr-type_lgc,,,,,lev-1
+nachr-type_lgc,,,,,unc-29
+nachr-type_lgc,,,,,unc-38
+nachr-type_lgc,,,,,unc-63
+nachr-type_lgc,,,,,lgc-1
+nachr-type_lgc,,,,,lgc-2/pbo-5
+nachr-type_lgc,,,,,lgc-3/pbo-6
+nachr-type_lgc,,,,,lgc-4
+nachr-type_lgc,,,,,lgc-5
+nachr-type_lgc,,,,,lgc-6
+nachr-type_lgc,,,,,lgc-7
+nachr-type_lgc,,,,,lgc-8
+nachr-type_lgc,,,,,lgc-9
+nachr-type_lgc,,,,,lgc-10
+nachr-type_lgc,,,,,lgc-11
+nachr-type_lgc,,,,,lgc-12
+nachr-type_lgc,,,,,lgc-13
+nachr-type_lgc,,,,,lgc-14
+nachr-type_lgc,,,,,lgc-15
+nachr-type_lgc,,,,,lgc-16
+nachr-type_lgc,,,,,lgc-17
+nachr-type_lgc,,,,,lgc-18
+nachr-type_lgc,,,,,lgc-19
+nachr-type_lgc,,,,,lgc-20
+nachr-type_lgc,,,,,lgc-21
+nachr-type_lgc,,,,,lgc-22
+nachr-type_lgc,,,,,lgc-23
+nachr-type_lgc,,,,,lgc-24
+nachr-type_lgc,,,,,lgc-25
+nachr-type_lgc,,,,,lgc-26
+nachr-type_lgc,,,,,lgc-27
+nachr-type_lgc,,,,,lgc-28
+nachr-type_lgc,,,,,lgc-29
+nachr-type_lgc,,,,,lgc-30
+nachr-type_lgc,,,,,lgc-31
+other_lgic,GABA,,,,gab-1
+other_lgic,GABA,,,,unc-49
+other_lgic,GABA,,,,exp-1
+other_lgic,GABA,,,,lgc-35
+other_lgic,GABA,,,,lgc-36
+other_lgic,GABA,,,,lgc-37
+other_lgic,GABA,,,,lgc-38
+other_lgic,Aminergic,,,,mod-1
+other_lgic,Aminergic,,,,lgc-50
+other_lgic,Aminergic,,,,lgc-51
+other_lgic,Aminergic,,,,lgc-52
+other_lgic,Aminergic,,,,lgc-53
+other_lgic,Aminergic,,,,lgc-54
+other_lgic,Aminergic,,,,lgc-55
+other_lgic,Aminergic,,,,ggr-3
+other_lgic,GluCl,,,,avr-14
+other_lgic,GluCl,,,,avr-15
+other_lgic,GluCl,,,,glc-1
+other_lgic,GluCl,,,,glc-2
+other_lgic,GluCl,,,,glc-3
+other_lgic,GluCl,,,,glc-4
+other_lgic,ACC,,,,acc-1
+other_lgic,ACC,,,,acc-2
+other_lgic,ACC,,,,acc-3
+other_lgic,ACC,,,,acc-4
+other_lgic,ACC,,,,lgc-46
+other_lgic,ACC,,,,lgc-47
+other_lgic,ACC,,,,lgc-48
+other_lgic,ACC,,,,lgc-49
+other_lgic,diverse,,,,lgc-32
+other_lgic,diverse,,,,lgc-33
+other_lgic,diverse,,,,lgc-34
+other_lgic,diverse,,,,ggr-1
+other_lgic,diverse,,,,ggr-2
+other_lgic,diverse,,,,lgc-39
+other_lgic,diverse,,,,lgc-40
+other_lgic,diverse,,,,lgc-41
+other_lgic,diverse,,,,lgc-42
+other_lgic,diverse,,,,lgc-43
+other_lgic,diverse,,,,lgc-44
+other_lgic,diverse,,,,lgc-45
+iglur,NMDA-type,,,,nmr-1
+iglur,NMDA-type,,,,nmr-2
+iglur,AMPA-type,,,,glr-1
+iglur,AMPA-type,,,,glr-2
+iglur,AMPA-type,,,,glr-3
+iglur,AMPA-type,,,,glr-4
+iglur,AMPA-type,,,,glr-5
+iglur,AMPA-type,,,,glr-6
+iglur,AMPA-type,,,,glr-7
+iglur,AMPA-type,,,,glr-8
+iglur,Diverse,,,,ZK867.2
+iglur,Diverse,,,,C08B6.5
+iglur,Diverse,,,,W02A2.5
+iglur,Diverse,,,,F59E12.8
+iglur,Diverse,,,,T25E4.2
+DEG_ENaC,Subgroup 1,,,,flr-1
+DEG_ENaC,Subgroup 1,,,,acd-1
+DEG_ENaC,Subgroup 1,,,,acd-2
+DEG_ENaC,Subgroup 1,,,,acd-3
+DEG_ENaC,Subgroup 1,,,,acd-4
+DEG_ENaC,Subgroup 1,,,,acd-5
+DEG_ENaC,Subgroup 1,,,,delm-1
+DEG_ENaC,Subgroup 1,,,,delm-2
+DEG_ENaC,Subgroup 2,,,,asic-1
+DEG_ENaC,Subgroup 2,,,,asic-2
+DEG_ENaC,Subgroup 2,,,,mec-4
+DEG_ENaC,Subgroup 2,,,,del-4
+DEG_ENaC,Subgroup 2,,,,unc-105
+DEG_ENaC,Subgroup 2,,,,deg-1
+DEG_ENaC,Subgroup 2,,,,del-1
+DEG_ENaC,Subgroup 2,,,,mec-10
+DEG_ENaC,Subgroup 3 (EGF + ASC domain),,,,egas-1
+DEG_ENaC,Subgroup 3 (EGF + ASC domain),,,,egas-2
+DEG_ENaC,Subgroup 3 (EGF + ASC domain),,,,egas-3
+DEG_ENaC,Subgroup 3 (EGF + ASC domain),,,,egas-4
+DEG_ENaC,Subgroup 3 (EGF + ASC domain),,,,degt-1
+DEG_ENaC,Subgroup 3 (EGF + ASC domain),,,,del-2
+DEG_ENaC,Subgroup 3 (EGF + ASC domain),,,,del-3
+DEG_ENaC,Subgroup 3 (EGF + ASC domain),,,,del-5
+DEG_ENaC,Subgroup 3 (EGF + ASC domain),,,,del-6
+DEG_ENaC,Subgroup 3 (EGF + ASC domain),,,,del-7
+DEG_ENaC,Subgroup 3 (EGF + ASC domain),,,,del-8
+DEG_ENaC,Subgroup 3 (EGF + ASC domain),,,,unc-8
+DEG_ENaC,Subgroup 3 (EGF + ASC domain),,,,del-9
+DEG_ENaC,Subgroup 3 (EGF + ASC domain),,,,del-10
+DEG_ENaC,other,,,,Y57G11C.44
+DEG_ENaC,other,,,,F58G6.8
+chloride_channel,CLC-type,,,,clh-1 (clc-1)
+chloride_channel,CLC-type,,,,clh-2 (clc-2)
+chloride_channel,CLC-type,,,,clh-3 (clc-3)
+chloride_channel,CLC-type,,,,clh-4 (clc-4)
+chloride_channel,CLC-type,,,,clh-5 (clc-5)
+chloride_channel,CLC-type,,,,clh-6 (clc-6)
+chloride_channel,anoctamin-related,,,,anoh-1
+chloride_channel,anoctamin-related,,,,anoh-2
+chloride_channel,tweety-related,,,,ttyh-1
+chloride_channel,bestrophin-related,,,,best-1
+chloride_channel,bestrophin-related,,,,best-2
+chloride_channel,bestrophin-related,,,,best-3
+chloride_channel,bestrophin-related,,,,best-4
+chloride_channel,bestrophin-related,,,,best-5
+chloride_channel,bestrophin-related,,,,best-6
+chloride_channel,bestrophin-related,,,,best-7
+chloride_channel,bestrophin-related,,,,best-8
+chloride_channel,bestrophin-related,,,,best-9
+chloride_channel,bestrophin-related,,,,best-10
+chloride_channel,bestrophin-related,,,,best-11
+chloride_channel,bestrophin-related,,,,best-12
+chloride_channel,bestrophin-related,,,,best-13
+chloride_channel,bestrophin-related,,,,best-14
+chloride_channel,bestrophin-related,,,,best-15
+chloride_channel,bestrophin-related,,,,best-16
+chloride_channel,bestrophin-related,,,,best-17
+chloride_channel,bestrophin-related,,,,best-18
+chloride_channel,bestrophin-related,,,,best-19
+chloride_channel,bestrophin-related,,,,best-20
+chloride_channel,bestrophin-related,,,,best-21
+chloride_channel,bestrophin-related,,,,best-22
+chloride_channel,bestrophin-related,,,,best-23
+chloride_channel,bestrophin-related,,,,best-24
+chloride_channel,bestrophin-related,,,,best-25
+chloride_channel,bestrophin-related,,,,best-26
+nt_synthesis,ACh synthesis,,,,cha-1
+nt_synthesis,ACh synthesis,,,,acly-1
+nt_synthesis,ACh synthesis,,,,acly-2
+nt_synthesis,ACh synthesis,,,,pmt-1
+nt_synthesis,ACh synthesis,,,,pmt-2
+nt_synthesis,GABA synthesis,,,,unc-25
+nt_synthesis,Biogenic amine synthesis,,,,tph-1
+nt_synthesis,Biogenic amine synthesis,,,,tbh-1
+nt_synthesis,Biogenic amine synthesis,,,,cat-2
+nt_synthesis,Biogenic amine synthesis,,,,cat-4
+nt_synthesis,Biogenic amine synthesis,,,,gfrp-1
+nt_synthesis,Biogenic amine synthesis,,,,ptps-1
+nt_synthesis,Biogenic amine synthesis,,,,pcbd-1
+nt_synthesis,Biogenic amine synthesis,,,,qdpr-1
+nt_synthesis,Biogenic amine synthesis,,,,tdc-1
+nt_synthesis,Biogenic amine synthesis,,,,bas-1
+nt_synthesis,Biogenic amine synthesis,,,,hdl-1
+nt_synthesis,Biogenic amine synthesis,,,,hdl-2 (tag-19)
+nt_synthesis,Biogenic amine synthesis,,,,basl-1
+nt_synthesis,Biogenic amine synthesis,,,,anat-1
+nt_synthesis,Biogenic amine synthesis,,,,homt-1
+nt_synthesis,Biogenic amine synthesis,,,,anmt-1
+nt_synthesis,Biogenic amine synthesis,,,,anmt-2
+nt_synthesis,Biogenic amine synthesis,,,,anmt-3
+nt_degradation,ACh degradation,,,,ace-1
+nt_degradation,ACh degradation,,,,ace-2
+nt_degradation,ACh degradation,,,,ace-3
+nt_degradation,ACh degradation,,,,ace-4
+nt_degradation,Monoamine degradation,,,,amx-2
+nt_degradation,Monoamine degradation,,,,comt-1
+nt_degradation,Monoamine degradation,,,,comt-2
+nt_degradation,Monoamine degradation,,,,comt-3
+nt_degradation,Monoamine degradation,,,,comt-4
+nt_degradation,Monoamine degradation,,,,comt-5
+nt_degradation,GABA degradation,,,,gta-1
+nt_degradation,GABA degradation,,,,adh-7
+neuropeptide,Insulin-related,,,,daf-28
+neuropeptide,Insulin-related,,,,ins-1
+neuropeptide,Insulin-related,,,,ins-2
+neuropeptide,Insulin-related,,,,ins-3
+neuropeptide,Insulin-related,,,,ins-4
+neuropeptide,Insulin-related,,,,ins-5
+neuropeptide,Insulin-related,,,,ins-6
+neuropeptide,Insulin-related,,,,ins-7
+neuropeptide,Insulin-related,,,,ins-8
+neuropeptide,Insulin-related,,,,ins-9
+neuropeptide,Insulin-related,,,,ins-10
+neuropeptide,Insulin-related,,,,ins-11
+neuropeptide,Insulin-related,,,,ins-12
+neuropeptide,Insulin-related,,,,ins-13
+neuropeptide,Insulin-related,,,,ins-14
+neuropeptide,Insulin-related,,,,ins-15
+neuropeptide,Insulin-related,,,,ins-16
+neuropeptide,Insulin-related,,,,ins-17
+neuropeptide,Insulin-related,,,,ins-18
+neuropeptide,Insulin-related,,,,ins-19
+neuropeptide,Insulin-related,,,,ins-20
+neuropeptide,Insulin-related,,,,ins-21
+neuropeptide,Insulin-related,,,,ins-22
+neuropeptide,Insulin-related,,,,ins-23
+neuropeptide,Insulin-related,,,,ins-24
+neuropeptide,Insulin-related,,,,ins-25
+neuropeptide,Insulin-related,,,,ins-26
+neuropeptide,Insulin-related,,,,ins-27
+neuropeptide,Insulin-related,,,,ins-28
+neuropeptide,Insulin-related,,,,ins-29
+neuropeptide,Insulin-related,,,,ins-30
+neuropeptide,Insulin-related,,,,ins-31
+neuropeptide,Insulin-related,,,,ins-32
+neuropeptide,Insulin-related,,,,ins-33
+neuropeptide,Insulin-related,,,,ins-34
+neuropeptide,Insulin-related,,,,ins-35
+neuropeptide,Insulin-related,,,,ins-36
+neuropeptide,Insulin-related,,,,ins-37
+neuropeptide,Insulin-related,,,,ins-38
+neuropeptide,Insulin-related,,,,ins-39
+neuropeptide,FMRFamides,,,,flp-1
+neuropeptide,FMRFamides,,,,flp-2
+neuropeptide,FMRFamides,,,,flp-3
+neuropeptide,FMRFamides,,,,flp-4
+neuropeptide,FMRFamides,,,,flp-5
+neuropeptide,FMRFamides,,,,flp-6
+neuropeptide,FMRFamides,,,,flp-7
+neuropeptide,FMRFamides,,,,flp-8
+neuropeptide,FMRFamides,,,,flp-9
+neuropeptide,FMRFamides,,,,flp-10
+neuropeptide,FMRFamides,,,,flp-11
+neuropeptide,FMRFamides,,,,flp-12
+neuropeptide,FMRFamides,,,,flp-13
+neuropeptide,FMRFamides,,,,flp-14
+neuropeptide,FMRFamides,,,,flp-15
+neuropeptide,FMRFamides,,,,flp-16
+neuropeptide,FMRFamides,,,,flp-17
+neuropeptide,FMRFamides,,,,flp-18
+neuropeptide,FMRFamides,,,,flp-19
+neuropeptide,FMRFamides,,,,flp-20
+neuropeptide,FMRFamides,,,,flp-21
+neuropeptide,FMRFamides,,,,flp-22
+neuropeptide,FMRFamides,,,,flp-23
+neuropeptide,FMRFamides,,,,flp-24
+neuropeptide,FMRFamides,,,,flp-25
+neuropeptide,FMRFamides,,,,flp-26
+neuropeptide,FMRFamides,,,,flp-27
+neuropeptide,FMRFamides,,,,flp-28
+neuropeptide,FMRFamides,,,,flp-32
+neuropeptide,FMRFamides,,,,flp-33
+neuropeptide,FMRFamides,,,,flp-44
+neuropeptide,other,,,,pdf-1
+neuropeptide,other,,,,snet-1
+neuropeptide,other,,,,ntc-1
+neuropeptide,other,,,,nlp-1
+neuropeptide,other,,,,nlp-2
+neuropeptide,other,,,,nlp-3
+neuropeptide,other,,,,nlp-4
+neuropeptide,other,,,,nlp-5
+neuropeptide,other,,,,nlp-6
+neuropeptide,other,,,,nlp-7
+neuropeptide,other,,,,nlp-8
+neuropeptide,other,,,,nlp-9
+neuropeptide,other,,,,nlp-10
+neuropeptide,other,,,,nlp-11
+neuropeptide,other,,,,nlp-12
+neuropeptide,other,,,,nlp-13
+neuropeptide,other,,,,nlp-14
+neuropeptide,other,,,,nlp-15
+neuropeptide,other,,,,nlp-16
+neuropeptide,other,,,,nlp-17
+neuropeptide,other,,,,nlp-18
+neuropeptide,other,,,,nlp-19
+neuropeptide,other,,,,nlp-20
+neuropeptide,other,,,,nlp-21
+neuropeptide,other,,,,nlp-22
+neuropeptide,other,,,,nlp-23
+neuropeptide,other,,,,nlp-24
+neuropeptide,other,,,,nlp-25
+neuropeptide,other,,,,nlp-26
+neuropeptide,other,,,,nlp-27
+neuropeptide,other,,,,nlp-28
+neuropeptide,other,,,,nlp-29
+neuropeptide,other,,,,nlp-30
+neuropeptide,other,,,,nlp-31
+neuropeptide,other,,,,nlp-32
+neuropeptide,other,,,,nlp-33
+neuropeptide,other,,,,nlp-34
+neuropeptide,other,,,,nlp-35
+neuropeptide,other,,,,nlp-36
+neuropeptide,other,,,,nlp-37
+neuropeptide,other,,,,nlp-38
+neuropeptide,other,,,,nlp-39
+neuropeptide,other,,,,nlp-40
+neuropeptide,other,,,,nlp-41
+neuropeptide,other,,,,nlp-42
+neuropeptide,other,,,,nlp-43
+neuropeptide,other,,,,nlp-44
+neuropeptide,other,,,,nlp-45
+neuropeptide,other,,,,nlp-46
+neuropeptide,other,,,,nlp-47
+neuropeptide,other,,,,nlp-48
+neuropep_metabolism,Maturation ,,,,egl-3
+neuropep_metabolism,Maturation ,,,,kpc-1
+neuropep_metabolism,Maturation ,,,,bli-4
+neuropep_metabolism,Maturation ,,,,aex-5
+neuropep_metabolism,Maturation ,,,,egl-21
+neuropep_metabolism,Maturation ,,,,cpd-1
+neuropep_metabolism,Maturation ,,,,cpd-2
+neuropep_metabolism,Modification,,,,pghm-1
+neuropep_metabolism,Modification,,,,pgal-1
+neuropep_metabolism,Modification,,,,pamn-1
+neuropep_metabolism,Degradation,,,,acn-1
+neuropep_metabolism,Degradation,,,,nep-1
+neuropep_metabolism,Degradation,,,,nep-2
+neuropep_metabolism,Degradation,,,,nep-3
+neuropep_metabolism,Degradation,,,,nep-4
+neuropep_metabolism,Degradation,,,,nep-5
+neuropep_metabolism,Degradation,,,,nep-6
+neuropep_metabolism,Degradation,,,,nep-7
+neuropep_metabolism,Degradation,,,,nep-8
+neuropep_metabolism,Degradation,,,,nep-9
+neuropep_metabolism,Degradation,,,,nep-10
+neuropep_metabolism,Degradation,,,,nep-11
+neuropep_metabolism,Degradation,,,,nep-12
+neuropep_metabolism,Degradation,,,,nep-13
+neuropep_metabolism,Degradation,,,,nep-14
+neuropep_metabolism,Degradation,,,,nep-15
+neuropep_metabolism,Degradation,,,,nep-16
+neuropep_metabolism,Degradation,,,,nep-17
+neuropep_metabolism,Degradation,,,,nep-18
+neuropep_metabolism,Degradation,,,,nep-19
+neuropep_metabolism,Degradation,,,,nep-20
+neuropep_metabolism,Degradation,,,,nep-21
+neuropep_metabolism,Degradation,,,,nep-22
+neuropep_metabolism,Degradation,,,,nep-23
+neuropep_metabolism,Degradation,,,,nep-24
+neuropep_metabolism,Degradation,,,,nep-25
+neuropep_metabolism,Degradation,,,,nep-26
+neuropep_metabolism,Degradation,,,,nep-27
+neuropep_metabolism,Degradation,,,,dpf-1
+neuropep_metabolism,Degradation,,,,dpf-2
+neuropep_metabolism,Degradation,,,,dfp-3
+neuropep_metabolism,Degradation,,,,dpf-4
+neuropep_metabolism,Degradation,,,,dpf-5
+neuropep_metabolism,Degradation,,,,dpf-6
+neuropep_metabolism,Degradation,,,,dpf-7
+neuropep_metabolism,Degradation,,,,dpt-1
+neuropep_metabolism,Degradation,,,,tpp-2
+Insulin-EGF_receptor-like,,,,,daf-2
+Insulin-EGF_receptor-like,,,,,hpa-1
+Insulin-EGF_receptor-like,,,,,irld-1
+Insulin-EGF_receptor-like,,,,,irld-2
+Insulin-EGF_receptor-like,,,,,irld-3
+Insulin-EGF_receptor-like,,,,,irld-4
+Insulin-EGF_receptor-like,,,,,irld-5
+Insulin-EGF_receptor-like,,,,,irld-6
+Insulin-EGF_receptor-like,,,,,irld-7
+Insulin-EGF_receptor-like,,,,,irld-8
+Insulin-EGF_receptor-like,,,,,irld-9
+Insulin-EGF_receptor-like,,,,,irld-10
+Insulin-EGF_receptor-like,,,,,irld-11
+Insulin-EGF_receptor-like,,,,,irld-12
+Insulin-EGF_receptor-like,,,,,irld-13
+Insulin-EGF_receptor-like,,,,,irld-14
+Insulin-EGF_receptor-like,,,,,irld-15
+Insulin-EGF_receptor-like,,,,,irld-16
+Insulin-EGF_receptor-like,,,,,irld-17
+Insulin-EGF_receptor-like,,,,,irld-18
+Insulin-EGF_receptor-like,,,,,irld-19
+Insulin-EGF_receptor-like,,,,,irld-20
+Insulin-EGF_receptor-like,,,,,hpa-2
+Insulin-EGF_receptor-like,,,,,irld-21
+Insulin-EGF_receptor-like,,,,,irld-22
+Insulin-EGF_receptor-like,,,,,irld-23
+Insulin-EGF_receptor-like,,,,,irld-24
+Insulin-EGF_receptor-like,,,,,irld-25
+Insulin-EGF_receptor-like,,,,,irld-26
+Insulin-EGF_receptor-like,,,,,irld-27
+Insulin-EGF_receptor-like,,,,,irld-28
+Insulin-EGF_receptor-like,,,,,irld-29
+Insulin-EGF_receptor-like,,,,,irld-30
+Insulin-EGF_receptor-like,,,,,irld-31
+Insulin-EGF_receptor-like,,,,,irld-32
+Insulin-EGF_receptor-like,,,,,irld-33
+Insulin-EGF_receptor-like,,,,,irld-34
+Insulin-EGF_receptor-like,,,,,irld-35
+Insulin-EGF_receptor-like,,,,,irld-36
+Insulin-EGF_receptor-like,,,,,irld-37
+Insulin-EGF_receptor-like,,,,,irld-38
+Insulin-EGF_receptor-like,,,,,irld-39
+Insulin-EGF_receptor-like,,,,,irld-40
+Insulin-EGF_receptor-like,,,,,irld-41
+Insulin-EGF_receptor-like,,,,,irld-42
+Insulin-EGF_receptor-like,,,,,irld-43
+Insulin-EGF_receptor-like,,,,,irld-44
+Insulin-EGF_receptor-like,,,,,irld-45
+Insulin-EGF_receptor-like,,,,,irld-46
+Insulin-EGF_receptor-like,,,,,irld-47
+Insulin-EGF_receptor-like,,,,,irld-48
+Insulin-EGF_receptor-like,,,,,irld-49
+Insulin-EGF_receptor-like,,,,,irld-50
+Insulin-EGF_receptor-like,,,,,irld-51
+Insulin-EGF_receptor-like,,,,,irld-52
+Insulin-EGF_receptor-like,,,,,irld-53
+Insulin-EGF_receptor-like,,,,,irld-54
+Insulin-EGF_receptor-like,,,,,irld-55
+Insulin-EGF_receptor-like,,,,,irld-56
+Insulin-EGF_receptor-like,,,,,irld-57
+Insulin-EGF_receptor-like,,,,,irld-58
+Insulin-EGF_receptor-like,,,,,irld-59
+Insulin-EGF_receptor-like,,,,,irld-60
+Insulin-EGF_receptor-like,,,,,irld-61
+Insulin-EGF_receptor-like,,,,,irld-62
+Insulin-EGF_receptor-like,,,,,irld-63
+Insulin-EGF_receptor-like,,,,,irld-64
+Insulin-EGF_receptor-like,,,,,irld-65
+Insulin-EGF_receptor-like,,,,,irld-66
+Insulin-EGF_receptor-like,,,,,irld-67
+gpcr,A_rhodopsin,muscarinic ,,,gar-1
+gpcr,A_rhodopsin,muscarinic ,,,gar-2
+gpcr,A_rhodopsin,muscarinic ,,,gar-3
+gpcr,A_rhodopsin,biogenic_amine_receptor,,,dop-1
+gpcr,A_rhodopsin,biogenic_amine_receptor,,,dop-2
+gpcr,A_rhodopsin,biogenic_amine_receptor,,,dop-3
+gpcr,A_rhodopsin,biogenic_amine_receptor,,,dop-4
+gpcr,A_rhodopsin,biogenic_amine_receptor,,,dop-5
+gpcr,A_rhodopsin,biogenic_amine_receptor,,,dop-6
+gpcr,A_rhodopsin,biogenic_amine_receptor,,,octr-1
+gpcr,A_rhodopsin,biogenic_amine_receptor,,,ser-3
+gpcr,A_rhodopsin,biogenic_amine_receptor,,,ser-6
+gpcr,A_rhodopsin,biogenic_amine_receptor,,,ser-1
+gpcr,A_rhodopsin,biogenic_amine_receptor,,,ser-4
+gpcr,A_rhodopsin,biogenic_amine_receptor,,,ser-5
+gpcr,A_rhodopsin,biogenic_amine_receptor,,,ser-7
+gpcr,A_rhodopsin,biogenic_amine_receptor,,,ser-2
+gpcr,A_rhodopsin,biogenic_amine_receptor,,,tyra-2
+gpcr,A_rhodopsin,biogenic_amine_receptor,,,tyra-3
+gpcr,A_rhodopsin,putative_peptidergic,Neuropeptide_fy_receptor,,ador-1
+gpcr,A_rhodopsin,putative_peptidergic,Neuropeptide_fy_receptor,,npr-1
+gpcr,A_rhodopsin,putative_peptidergic,Neuropeptide_fy_receptor,,npr-2
+gpcr,A_rhodopsin,putative_peptidergic,Neuropeptide_fy_receptor,,npr-3
+gpcr,A_rhodopsin,putative_peptidergic,Neuropeptide_fy_receptor,,npr-4
+gpcr,A_rhodopsin,putative_peptidergic,Neuropeptide_fy_receptor,,npr-5
+gpcr,A_rhodopsin,putative_peptidergic,Neuropeptide_fy_receptor,,npr-6
+gpcr,A_rhodopsin,putative_peptidergic,Neuropeptide_fy_receptor,,npr-7
+gpcr,A_rhodopsin,putative_peptidergic,Neuropeptide_fy_receptor,,npr-8
+gpcr,A_rhodopsin,putative_peptidergic,Neuropeptide_fy_receptor,,npr-10
+gpcr,A_rhodopsin,putative_peptidergic,Neuropeptide_fy_receptor,,npr-11
+gpcr,A_rhodopsin,putative_peptidergic,Neuropeptide_fy_receptor,,npr-12
+gpcr,A_rhodopsin,putative_peptidergic,Neuropeptide_fy_receptor,,npr-13
+gpcr,A_rhodopsin,putative_peptidergic,Ghrelin-obstatin_neuromedin_U_receptor,,nmur-1
+gpcr,A_rhodopsin,putative_peptidergic,Ghrelin-obstatin_neuromedin_U_receptor,,nmur-2
+gpcr,A_rhodopsin,putative_peptidergic,Ghrelin-obstatin_neuromedin_U_receptor,,nmur-3
+gpcr,A_rhodopsin,putative_peptidergic,Ghrelin-obstatin_neuromedin_U_receptor,,nmur-4
+gpcr,A_rhodopsin,putative_peptidergic,Ghrelin-obstatin_neuromedin_U_receptor,,npr-20
+gpcr,A_rhodopsin,putative_peptidergic,Ghrelin-obstatin_neuromedin_U_receptor,,npr-21
+gpcr,A_rhodopsin,putative_peptidergic,Neurokinin_neuropeptide_ff_orexin_receptor,,tkr-1
+gpcr,A_rhodopsin,putative_peptidergic,Neurokinin_neuropeptide_ff_orexin_receptor,,tkr-2
+gpcr,A_rhodopsin,putative_peptidergic,Neurokinin_neuropeptide_ff_orexin_receptor,,tkr-3
+gpcr,A_rhodopsin,putative_peptidergic,Neurokinin_neuropeptide_ff_orexin_receptor,,npr-14
+gpcr,A_rhodopsin,putative_peptidergic,Neurokinin_neuropeptide_ff_orexin_receptor,,npr-22
+gpcr,A_rhodopsin,putative_peptidergic,Neurokinin_neuropeptide_ff_orexin_receptor,,npr-35
+gpcr,A_rhodopsin,putative_peptidergic,Somatostatin_receptor,,npr-16
+gpcr,A_rhodopsin,putative_peptidergic,Somatostatin_receptor,,npr-17
+gpcr,A_rhodopsin,putative_peptidergic,Somatostatin_receptor,,npr-18
+gpcr,A_rhodopsin,putative_peptidergic,Somatostatin_receptor,,npr-24
+gpcr,A_rhodopsin,putative_peptidergic,Somatostatin_receptor,,npr-25
+gpcr,A_rhodopsin,putative_peptidergic,Somatostatin_receptor,,npr-26
+gpcr,A_rhodopsin,putative_peptidergic,Somatostatin_receptor,,npr-27
+gpcr,A_rhodopsin,putative_peptidergic,Somatostatin_receptor,,npr-28
+gpcr,A_rhodopsin,putative_peptidergic,Somatostatin_receptor,,npr-29
+gpcr,A_rhodopsin,putative_peptidergic,Somatostatin_receptor,,npr-30
+gpcr,A_rhodopsin,putative_peptidergic,Somatostatin_receptor,,npr-31
+gpcr,A_rhodopsin,putative_peptidergic,Somatostatin_receptor,,npr-32
+gpcr,A_rhodopsin,putative_peptidergic,Galanin_receptor,,npr-9
+gpcr,A_rhodopsin,putative_peptidergic,Galanin_receptor,,npr-15
+gpcr,A_rhodopsin,putative_peptidergic,Galanin_receptor,,npr-33
+gpcr,A_rhodopsin,putative_peptidergic,Galanin_receptor,,npr-34
+gpcr,A_rhodopsin,putative_peptidergic,Gonadotropin-releasing_hormone_receptor,,gnrr-1
+gpcr,A_rhodopsin,putative_peptidergic,Gonadotropin-releasing_hormone_receptor,,gnrr-2
+gpcr,A_rhodopsin,putative_peptidergic,Gonadotropin-releasing_hormone_receptor,,gnrr-3
+gpcr,A_rhodopsin,putative_peptidergic,Gonadotropin-releasing_hormone_receptor,,gnrr-4
+gpcr,A_rhodopsin,putative_peptidergic,Gonadotropin-releasing_hormone_receptor,,gnrr-5
+gpcr,A_rhodopsin,putative_peptidergic,Gonadotropin-releasing_hormone_receptor,,gnrr-6
+gpcr,A_rhodopsin,putative_peptidergic,Gonadotropin-releasing_hormone_receptor,,gnrr-7
+gpcr,A_rhodopsin,putative_peptidergic,Gonadotropin-releasing_hormone_receptor,,daf-38
+gpcr,A_rhodopsin,putative_peptidergic,Gastrin-cholecystokinin_receptor,,ckr-1
+gpcr,A_rhodopsin,putative_peptidergic,Gastrin-cholecystokinin_receptor,,ckr-2
+gpcr,A_rhodopsin,putative_peptidergic,Vasopressin_receptor,,ntr-1
+gpcr,A_rhodopsin,putative_peptidergic,Vasopressin_receptor,,ntr-2
+gpcr,A_rhodopsin,putative_peptidergic,Sex_peptide_receptor,,sprr-1
+gpcr,A_rhodopsin,putative_peptidergic,Sex_peptide_receptor,,sprr-2
+gpcr,A_rhodopsin,putative_peptidergic,Sex_peptide_receptor,,sprr-3
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-1
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-2
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-3
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-4
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-5
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-6
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-7
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-8
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-9
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-10
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-11
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-12
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-13
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-14
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-15
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-16
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-17
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-18
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,frpr-19
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_FMRFamide_receptor,,daf-37
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_Dromyosuppressin_receptor,,egl-6
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_Dromyosuppressin_receptor,,dmsr-1
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_Dromyosuppressin_receptor,,dmsr-2
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_Dromyosuppressin_receptor,,dmsr-3
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_Dromyosuppressin_receptor,,dmsr-4
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_Dromyosuppressin_receptor,,dmsr-5
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_Dromyosuppressin_receptor,,dmsr-6
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_Dromyosuppressin_receptor,,dmsr-7
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_Dromyosuppressin_receptor,,dmsr-8
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_Dromyosuppressin_receptor,,dmsr-9
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_Dromyosuppressin_receptor,,dmsr-10
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_Dromyosuppressin_receptor,,dmsr-11
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_Dromyosuppressin_receptor,,dmsr-12
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_Dromyosuppressin_receptor,,dmsr-13
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_Dromyosuppressin_receptor,,dmsr-14
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_Dromyosuppressin_receptor,,dmsr-15
+gpcr,A_rhodopsin,putative_peptidergic,Drosophila_Dromyosuppressin_receptor,,dmsr-16
+gpcr,A_rhodopsin,putative_peptidergic,Another_Drosophila_FMRFamide_receptor,TF315321,E04D5.2
+gpcr,A_rhodopsin,putative_peptidergic,Another_Drosophila_FMRFamide_receptor,TF315321,T11F9.1
+gpcr,A_rhodopsin,putative_peptidergic,Another_Drosophila_FMRFamide_receptor,TF315321,R11F4.2
+gpcr,A_rhodopsin,putative_peptidergic,Another_Drosophila_FMRFamide_receptor,TF315321,Y37E11AL.1
+gpcr,A_rhodopsin,putative_peptidergic,Another_Drosophila_FMRFamide_receptor,TF315321,C54D10.5
+gpcr,A_rhodopsin,putative_peptidergic,Another_Drosophila_FMRFamide_receptor,TF315321,ZK1307.7
+gpcr,A_rhodopsin,putative_peptidergic,Another_Drosophila_FMRFamide_receptor,TF315321,F32D8.10
+gpcr,A_rhodopsin,putative_peptidergic,Another_Drosophila_FMRFamide_receptor,TF315321,F56A11.4
+gpcr,A_rhodopsin,putative_peptidergic,Another_Drosophila_FMRFamide_receptor,TF315321,Y41D4B.24
+gpcr,A_rhodopsin,putative_peptidergic,Another_Drosophila_FMRFamide_receptor,TF315321,F57A8.4
+gpcr,A_rhodopsin,putative_peptidergic,Another_Drosophila_FMRFamide_receptor,TF315321,Y40C5A.4
+gpcr,A_rhodopsin,putative_peptidergic,Another_Drosophila_FMRFamide_receptor,TF315321,C47E8.3
+gpcr,A_rhodopsin,putative_peptidergic,Another_Drosophila_FMRFamide_receptor,TF315321,B0034.5
+gpcr,A_rhodopsin,putative_peptidergic,Related family (TF315326) with fly ortholog (CG33639),,B0563.6
+gpcr,A_rhodopsin,putative_peptidergic,Related family (TF315326) with fly ortholog (CG33639),,AH9.1
+gpcr,A_rhodopsin,putative_peptidergic,Related family (TF315326) with fly ortholog (CG33639),,Y70D2A.1
+gpcr,A_rhodopsin,putative_peptidergic,Related family (TF315326) with fly ortholog (CG33639),,C17H11.1
+gpcr,A_rhodopsin,putative_peptidergic,Related family (TF317595) with fly ortholog (CG33696),,H09F14.1
+gpcr,A_rhodopsin,putative_peptidergic,Related family (TF317595) with fly ortholog (CG33696),,F16C3.1
+gpcr,A_rhodopsin,putative_peptidergic,Related family (TF317595) with fly ortholog (CG33696),,C24B5.1
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF315359),,R13H7.2
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF315359),,K03H6.1
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF315359),,K03H6.5
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF315359),,F40A3.7
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF315359),,W10C4.1
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF315359),,F59B2.13
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF315359),,T10E10.3
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF315359),,D1014.2
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF315508),,C04C3.6
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF315508),,ZK863.1
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF315508),,C50H11.13
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF315508),,C54E10.3
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF315508),,T01B11.1
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF316587),,aex-2
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF316587),,aexr-1
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF316587),,aexr-2
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF316587),,aexr-3
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF316160),,F52D10.4
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF316160),,F56A12.2
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF316160),,M04G7.3
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF317550),,AH9.4
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF317550),,F54E4.2
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF318526),,C01F1.4
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF318526),,F10D7.1
+gpcr,A_rhodopsin,putative_peptidergic,Related family with no specific orthologs (TF318526),,H02I12.3
+gpcr,A_rhodopsin,putative_peptidergic,FSHR ortholog (LRR repeats),,fshr-1
+gpcr,A_rhodopsin,putative_peptidergic,DmDopEcR ,,F59D12.1
+gpcr,A_rhodopsin,putative_peptidergic,no_ortholog,,npr-19
+gpcr,A_rhodopsin,putative_peptidergic,no_ortholog,,ZK813.5
+gpcr,A_rhodopsin,putative_peptidergic,no_ortholog,,H23L24.4
+gpcr,A_rhodopsin,putative_peptidergic,no_ortholog,,T02D1.4
+gpcr,A_rhodopsin,putative_peptidergic,no_ortholog,,F36D4.4
+gpcr,A_rhodopsin,putative_peptidergic,no_ortholog,,ZK721.4
+gpcr,A_rhodopsin,putative_peptidergic,no_ortholog,,B0334.6
+gpcr,A_rhodopsin,putative_peptidergic,no_ortholog,,npr-23
+gpcr,A_rhodopsin,putative_peptidergic,no_ortholog,,C09F12.3
+gpcr,A_rhodopsin,putative_peptidergic,no_ortholog,,F13H6.5
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-1
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-2
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-3
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-4
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-5
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-6
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-7
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-8
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-9
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-10
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-11
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-12
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-13
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-14
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-15
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-16
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-17
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-18
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-19
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-20
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-21
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-22
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-23
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-24
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-25
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-26
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-27
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-28
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-29
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-30
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-31
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-32
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-33
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-34
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-35
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-36
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-37
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-38
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-39
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-40
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-41
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-42
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-43
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-44
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-45
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-46
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-47
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-48
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-49
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-50
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-51
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-52
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-53
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-54
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-55
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-56
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-57
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-58
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-59
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-60
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-61
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-62
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-63
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-64
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-65
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-66
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-67
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-68
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-69
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-70
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-71
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-72
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-73
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-74
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-75
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-76
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-77
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-78
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-79
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-80
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-81
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-82
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-83
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-84
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-85
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-86
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-87
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-88
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-89
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-90
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-91
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-92
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-93
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-94
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-95
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-96
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-97
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-98
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-99
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-100
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-101
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-102
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-103
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-104
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-105
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-106
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-107
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-108
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-109
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-110
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-111
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-112
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-113
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-114
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-115
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-116
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-117
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-118
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-119
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-120
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-121
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-122
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-123
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-124
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-125
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-126
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-127
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-128
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-129
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-130
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-131
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-132
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-133
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-134
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-135
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-136
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-137
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-138
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-139
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-140
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-141
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-142
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-143
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-144
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-145
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-146
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-147
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-148
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-149
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-150
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-151
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-152
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-153
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-154
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-155
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-156
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-157
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-158
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-159
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-160
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-161
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-162
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-163
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-164
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-165
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-166
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-167
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-168
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-169
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-170
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-171
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-172
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-173
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-174
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-175
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-176
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-177
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-178
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-179
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-180
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-181
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-182
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-183
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-184
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-185
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-186
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-187
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-188
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-189
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-190
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-191
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-192
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-193
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-194
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-195
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-196
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-197
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-198
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-199
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-200
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-201
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-202
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-203
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-204
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-205
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-206
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-207
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-208
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-209
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-210
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-211
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-212
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-213
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-214
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-215
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-216
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-217
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-218
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-219
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-220
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-221
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-222
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-223
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-224
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-225
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-226
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-227
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-228
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-229
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-230
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-231
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-232
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-233
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-234
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-235
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-236
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-237
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-238
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-239
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-240
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-241
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-242
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-243
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-244
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-245
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-246
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-247
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-248
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-249
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-250
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-251
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-252
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-253
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-254
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-255
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-256
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-257
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-258
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-259
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-260
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-261
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-262
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-263
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-264
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-265
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-266
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-267
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-268
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-269
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-270
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-271
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-272
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-273
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-274
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-275
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-276
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-277
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-278
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-279
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-280
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-281
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-282
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-283
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-284
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-285
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-286
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-287
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-288
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-289
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-290
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-291
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-292
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-293
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-294
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-295
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-296
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-297
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-298
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-299
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-300
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-301
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-302
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-303
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-304
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-305
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-306
+gpcr,A_rhodopsin,chemosensory_others,Str,srh,srh-307
+gpcr,A_rhodopsin,chemosensory_others,Str,str,srh-308
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-1
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-2
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-3
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-4
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-5
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-6
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-7
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-8
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-9
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-10
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-11
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-12
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-13
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-14
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-15
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-16
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-17
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-18
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-19
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-20
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-21
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-22
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-23
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-24
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-25
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-26
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-27
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-28
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-29
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-30
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-31
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-32
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-33
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-34
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-35
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-36
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-37
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-38
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-39
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-40
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-41
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-42
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-43
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-44
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-45
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-46
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-47
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-48
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-49
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-50
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-51
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-52
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-53
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-54
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-55
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-56
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-57
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-58
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-59
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-60
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-61
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-62
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-63
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-64
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-65
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-66
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-67
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-68
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-69
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-70
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-71
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-72
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-73
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-74
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-75
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-76
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-77
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-78
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-79
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-80
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-81
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-82
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-83
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-84
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-85
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-86
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-87
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-88
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-89
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-90
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-91
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-92
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-93
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-94
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-95
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-96
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-97
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-98
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-99
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-100
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-101
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-102
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-103
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-104
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-105
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-106
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-107
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-108
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-109
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-110
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-111
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-112
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-113
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-114
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-115
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-116
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-117
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-118
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-119
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-120
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-121
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-122
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-123
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-124
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-125
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-126
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-127
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-128
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-129
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-130
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-131
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-132
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-133
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-134
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-135
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-136
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-137
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-138
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-139
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-140
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-141
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-142
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-143
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-144
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-145
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-146
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-147
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-148
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-149
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-150
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-151
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-152
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-153
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-154
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-155
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-156
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-157
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-158
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-159
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-160
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-161
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-162
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-163
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-164
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-165
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-166
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-167
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-168
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-169
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-170
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-171
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-172
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-173
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-174
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-175
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-176
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-177
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-178
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-179
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-180
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-181
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-182
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-183
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-184
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-185
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-186
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-187
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-188
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-189
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-190
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-191
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-192
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-193
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-194
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-195
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-196
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-197
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-198
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-199
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-200
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-201
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-202
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-203
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-204
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-205
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-206
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-207
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-208
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-209
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-210
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-211
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-212
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-213
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-214
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-215
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-216
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-217
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-218
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-219
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-220
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-221
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-222
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-223
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-224
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-225
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-226
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-227
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-228
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-229
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-230
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-231
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-232
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-233
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-234
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-235
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-236
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-237
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-238
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-239
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-240
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-241
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-242
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-243
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-244
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-245
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-246
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-247
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-248
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-249
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-250
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-251
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-252
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-253
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-254
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-255
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-256
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-257
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-258
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-259
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-260
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-261
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-262
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-263
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-264
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-265
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-266
+gpcr,A_rhodopsin,chemosensory_others,Str,str,str-267
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-1
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-2
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-3
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-4
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-5
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-6
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-7
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-8
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-9
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-10
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-11
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-12
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-13
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-14
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-15
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-16
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-17
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-18
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-19
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-20
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-21
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-22
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-23
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-24
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-25
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-26
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-27
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-28
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-29
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-30
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-31
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-32
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-33
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-34
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-35
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-36
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-37
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-38
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-39
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-40
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-41
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-42
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-43
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-44
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-45
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-46
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-47
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-48
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-49
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-50
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-51
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-52
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-53
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-54
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-55
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-56
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-57
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-58
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-59
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-60
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-61
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-62
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-63
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-64
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-65
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-66
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-67
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-68
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-69
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-70
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-71
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-72
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-73
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-74
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-75
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-76
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-77
+gpcr,A_rhodopsin,chemosensory_others,Str,sri,sri-78
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-1
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-2
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-3
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-4
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-5
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-6
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-7
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-8
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-9
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-10
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-11
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-12
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-13
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-14
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-15
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-16
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-17
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-18
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-19
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-20
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-21
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-22
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-23
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-24
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-25
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-26
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-27
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-28
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-29
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-30
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-31
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-32
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-33
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-34
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-35
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-36
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-37
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-38
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-39
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-40
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-41
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-42
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-43
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-44
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-45
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-46
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-47
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-48
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-49
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-50
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-51
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-52
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-53
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-54
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-55
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-56
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-57
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-58
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-59
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-60
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-61
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-62
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-63
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-64
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-65
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-66
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-67
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-68
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-69
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-70
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-71
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-72
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-73
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-74
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-75
+gpcr,A_rhodopsin,chemosensory_others,Str,srd,srd-76
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-1
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-2
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-3
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-4
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-5
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-6
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-7
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-8
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-9
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-10
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-11
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-12
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-13
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-14
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-15
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-16
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-17
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-18
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-19
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-20
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-21
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-22
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-23
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-24
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-25
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-26
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-27
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-28
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-29
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-30
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-31
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-32
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-33
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-34
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-35
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-36
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-37
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-38
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-39
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-40
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-41
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-42
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-43
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-44
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-45
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-46
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-47
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-48
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-49
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-50
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-51
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-52
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-53
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-54
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-55
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-56
+gpcr,A_rhodopsin,chemosensory_others,Str,srj,srj-57
+gpcr,A_rhodopsin,chemosensory_others,Str,srm,srm-1
+gpcr,A_rhodopsin,chemosensory_others,Str,srm,srm-2
+gpcr,A_rhodopsin,chemosensory_others,Str,srm,srm-3
+gpcr,A_rhodopsin,chemosensory_others,Str,srm,srm-4
+gpcr,A_rhodopsin,chemosensory_others,Str,srm,srm-5
+gpcr,A_rhodopsin,chemosensory_others,Str,srm,srm-6
+gpcr,A_rhodopsin,chemosensory_others,Str,srn,srn-1
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-1
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-2
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-3
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-4
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-5
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-6
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-7
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-8
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-9
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-10
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-11
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-12
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-13
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-14
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-15
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-16
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-17
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-18
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-19
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-20
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-21
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-22
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-23
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-24
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-25
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-26
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-27
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-28
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-29
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-30
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-31
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-32
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-33
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-34
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-35
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-36
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-37
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-38
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-39
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-40
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-41
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-42
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-43
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-44
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-45
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-46
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-47
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-48
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-49
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-50
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-51
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-52
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-53
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-54
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-55
+gpcr,A_rhodopsin,chemosensory_others,Sra,sre,sre-56
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-1
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-2
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-3
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-4
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-5
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-6
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-7
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-8
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-9
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-10
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-11
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-12
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-13
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-14
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-15
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-16
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-17
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-18
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-19
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-20
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-21
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-22
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-23
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-24
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-25
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-26
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-27
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-28
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-29
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-30
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-31
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-32
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-33
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-34
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-35
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-36
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-37
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-38
+gpcr,A_rhodopsin,chemosensory_others,Sra,sra,sra-39
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-1
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-2
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-3
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-4
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-5
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-6
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-7
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-8
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-9
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-10
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-11
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-12
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-13
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-14
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-15
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-16
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-17
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-18
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-19
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-20
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-21
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-22
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-23
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-24
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-25
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-26
+gpcr,A_rhodopsin,chemosensory_others,Sra,srab,srab-27
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-1
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-2
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-3
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-4
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-5
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-6
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-7
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-8
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-9
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-10
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-11
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-12
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-13
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-14
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-15
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-16
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-17
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-18
+gpcr,A_rhodopsin,chemosensory_others,Sra,srb,srb-19
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-1
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-2
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-3
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-4
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-5
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-6
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-7
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-8
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-9
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-10
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-11
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-12
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-13
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-14
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-15
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-16
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-17
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-18
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-19
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-20
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-21
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-22
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-23
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-24
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-25
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-26
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-27
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-28
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-29
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-30
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-31
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-32
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-33
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-34
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-35
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-36
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-37
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-38
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-39
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-40
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-41
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-42
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-43
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-44
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-45
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-46
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-47
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-48
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-49
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-50
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-51
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-52
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-53
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-54
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-55
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-56
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-57
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-58
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-59
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-60
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-61
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-62
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-63
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-64
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-65
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-66
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-67
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-68
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-69
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-70
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-71
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-72
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-73
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-74
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-75
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-76
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-77
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-78
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-79
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-80
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-81
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-82
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-83
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-84
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-85
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-86
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-87
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-88
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-89
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-90
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-91
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-92
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-93
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-94
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-95
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-96
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-97
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-98
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-99
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-100
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-101
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-102
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-103
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-104
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-105
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-106
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-107
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-108
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-109
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-110
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-111
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-112
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-113
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-114
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-115
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-116
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-117
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-118
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-119
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-120
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-121
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-122
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-123
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-124
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-125
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-126
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-127
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-128
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-129
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-130
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-131
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-132
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-133
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-134
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-135
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-136
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-137
+gpcr,A_rhodopsin,chemosensory_others,Srg,srx,srx-138
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-1
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-2
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-3
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-4
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-5
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-6
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-7
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-8
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-9
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-10
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-11
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-12
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-13
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-14
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-15
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-16
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-17
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-18
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-19
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-20
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-21
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-22
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-23
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-24
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-25
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-26
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-27
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-28
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-29
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-30
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-31
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-32
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-33
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-34
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-35
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-36
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-37
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-38
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-39
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-40
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-41
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-42
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-43
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-44
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-45
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-46
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-47
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-48
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-49
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-50
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-51
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-52
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-53
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-54
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-55
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-56
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-57
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-58
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-59
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-60
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-61
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-62
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-63
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-64
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-65
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-66
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-67
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-68
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-69
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-70
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-71
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-72
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-73
+gpcr,A_rhodopsin,chemosensory_others,Srg,srt,srt-74
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-1
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-2
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-3
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-4
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-5
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-6
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-7
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-8
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-9
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-10
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-11
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-12
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-13
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-14
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-15
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-16
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-17
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-18
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-19
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-20
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-21
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-22
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-23
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-24
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-25
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-26
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-27
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-28
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-29
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-30
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-31
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-32
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-33
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-34
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-35
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-36
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-37
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-38
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-39
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-40
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-41
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-42
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-43
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-44
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-45
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-46
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-47
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-48
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-49
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-50
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-51
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-52
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-53
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-54
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-55
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-56
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-57
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-58
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-59
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-60
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-61
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-62
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-63
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-64
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-65
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-66
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-67
+gpcr,A_rhodopsin,chemosensory_others,Srg,srg,srg-68
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-1
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-2
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-3
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-4
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-5
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-6
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-7
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-8
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-9
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-10
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-11
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-12
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-13
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-14
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-15
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-16
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-17
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-18
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-19
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-20
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-21
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-22
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-23
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-24
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-25
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-26
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-27
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-28
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-29
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-30
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-31
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-32
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-33
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-34
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-35
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-36
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-37
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-38
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-39
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-40
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-41
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-42
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-43
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-44
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-45
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-46
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-47
+gpcr,A_rhodopsin,chemosensory_others,Srg,sru,sru-48
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-1
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-2
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-3
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-4
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-5
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-6
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-7
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-8
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-9
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-10
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-11
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-12
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-13
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-14
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-15
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-16
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-17
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-18
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-19
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-20
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-21
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-22
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-23
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-24
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-25
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-26
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-27
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-28
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-29
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-30
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-31
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-32
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-33
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-34
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-35
+gpcr,A_rhodopsin,chemosensory_others,Srg,srv,srv-36
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-1
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-2
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-3
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-4
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-5
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-6
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-7
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-8
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-9
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-10
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-11
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-12
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-13
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-14
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-15
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-16
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-17
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-18
+gpcr,A_rhodopsin,chemosensory_others,Srg,srxa,srxa-19
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-1
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-2
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-3
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-4
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-5
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-6
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-7
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-8
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-9
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-10
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-11
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-12
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-13
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-14
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-15
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-16
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-17
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-18
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-19
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-20
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-21
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-22
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-23
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-24
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-25
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-26
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-27
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-28
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-29
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-30
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-31
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-32
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-33
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-34
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-35
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-36
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-37
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-38
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-39
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-40
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-41
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-42
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-43
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-44
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-45
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-46
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-47
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-48
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-49
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-50
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-51
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-52
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-53
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-54
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-55
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-56
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-57
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-58
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-59
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-60
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-61
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-62
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-63
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-64
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-65
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-66
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-67
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-68
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-69
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-70
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-71
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-72
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-73
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-74
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-75
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-76
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-77
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-78
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-79
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-80
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-81
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-82
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-83
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-84
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-85
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-86
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-87
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-88
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-89
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-90
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-91
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-92
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-93
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-94
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-95
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-96
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-97
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-98
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-99
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-100
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-101
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-102
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-103
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-104
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-105
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-106
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-107
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-108
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-109
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-110
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-111
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-112
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-113
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-114
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-115
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-116
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-117
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-118
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-119
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-120
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-121
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-122
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-123
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-124
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-125
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-126
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-127
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-128
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-129
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-130
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-131
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-132
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-133
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-134
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-135
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-136
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-137
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-138
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-139
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-140
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-141
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-142
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-143
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-144
+gpcr,A_rhodopsin,chemosensory_others,Srw,srw,srw-145
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-1
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-2
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-3
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-4
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-5
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-6
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-7
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-8
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-9
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-10
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-11
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-12
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-13
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-14
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-15
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-16
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-17
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-18
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-19
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-20
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-21
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-22
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-23
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-24
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-25
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-26
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-27
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-28
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-29
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-30
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-31
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-32
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-33
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-34
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-35
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-36
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-37
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-38
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-39
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-40
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-41
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-42
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-43
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-44
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-45
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-46
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-47
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-48
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-49
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-50
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-51
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-52
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-53
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-54
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-55
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-56
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-57
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-58
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-59
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-60
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-61
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-62
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-63
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-64
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-65
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-66
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-67
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-68
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-69
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-70
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-71
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-72
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-73
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-74
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-75
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-76
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-77
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-78
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-79
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-80
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-81
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-82
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-83
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-84
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-85
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-86
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-87
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-88
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-89
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-90
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-91
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-92
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-93
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-94
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-95
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-96
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-97
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-98
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-99
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-100
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-101
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-102
+gpcr,A_rhodopsin,chemosensory_others,Srz,srz,srz-103
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-1
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-2
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-3
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-4
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-5
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-6
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-7
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-8
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-9
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-10
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-11
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-12
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-13
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-14
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-15
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-16
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-17
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-18
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-19
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-20
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-21
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-22
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-23
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-24
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-25
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-26
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-27
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-28
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-29
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-30
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-31
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-32
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-33
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-34
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-35
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-36
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-37
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-38
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-39
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-40
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-41
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-42
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-43
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-44
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-45
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-46
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-47
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-48
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-49
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-50
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-51
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-52
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-53
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-54
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-55
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-56
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-57
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-58
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-59
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-60
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-61
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-62
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-63
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-64
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-65
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-66
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-67
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-68
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-69
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-70
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-71
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-72
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-73
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-74
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-75
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-76
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-77
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-78
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-79
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-80
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-81
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-82
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-83
+gpcr,A_rhodopsin,chemosensory_others,Srbc,srbc,srbs-84
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-1
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-2
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-3
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-4
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-5
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-6
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-7
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-8
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-9
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-10
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-11
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-12
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-13
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-14
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-15
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-16
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-17
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-18
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-19
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-20
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-21
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-22
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-23
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-24
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-25
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-26
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-27
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-28
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-29
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-30
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-31
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-32
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-33
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-34
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-35
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-36
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-37
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-38
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-39
+gpcr,A_rhodopsin,chemosensory_others,Srsx,srsx,srsx-40
+gpcr,A_rhodopsin,chemosensory_others,Srr,srr,srr-1
+gpcr,A_rhodopsin,chemosensory_others,Srr,srr,srr-2
+gpcr,A_rhodopsin,chemosensory_others,Srr,srr,srr-3
+gpcr,A_rhodopsin,chemosensory_others,Srr,srr,srr-4
+gpcr,A_rhodopsin,chemosensory_others,Srr,srr,srr-5
+gpcr,A_rhodopsin,chemosensory_others,Srr,srr,srr-6
+gpcr,A_rhodopsin,chemosensory_others,Srr,srr,srr-7
+gpcr,A_rhodopsin,chemosensory_others,Srr,srr,srr-8
+gpcr,A_rhodopsin,chemosensory_others,Srr,srr,srr-9
+gpcr,A_rhodopsin,chemosensory_others,Srr,srr,srr-10
+gpcr,B_secretin,,,,pdfr-1
+gpcr,B_secretin,,,,seb-2
+gpcr,B_secretin,,,,seb-3
+gpcr,B_adhesion,,,,fmi-1
+gpcr,B_adhesion,,,,lat-1
+gpcr,B_adhesion,,,,lat-2
+gpcr,B_adhesion,,,,mth-1
+gpcr,B_adhesion,,,,mth-2
+gpcr,C_mglur,,,,mgl-1
+gpcr,C_mglur,,,,mgl-2
+gpcr,C_mglur,,,,mgl-3
+gpcr,C_mglur,,,,C30A5.10
+gpcr,C_mglur,,,,F35H10.10
+gpcr,Frizzled_Taste2,,,,mig-1
+gpcr,Frizzled_Taste3,,,,lin-17
+gpcr,Frizzled_Taste4,,,,mom-5
+gpcr,Frizzled_Taste5,,,,cfz-2
+down_gpcr,Galpha,,,,gsa-1
+down_gpcr,Galpha,,,,egl-30
+down_gpcr,Galpha,,,,goa-1
+down_gpcr,Galpha,,,,gpa-1
+down_gpcr,Galpha,,,,gpa-2
+down_gpcr,Galpha,,,,gpa-3
+down_gpcr,Galpha,,,,gpa-4
+down_gpcr,Galpha,,,,gpa-5
+down_gpcr,Galpha,,,,gpa-6
+down_gpcr,Galpha,,,,gpa-7
+down_gpcr,Galpha,,,,gpa-8
+down_gpcr,Galpha,,,,gpa-9
+down_gpcr,Galpha,,,,gpa-10
+down_gpcr,Galpha,,,,gpa-11
+down_gpcr,Galpha,,,,gpa-12
+down_gpcr,Galpha,,,,gpa-13
+down_gpcr,Galpha,,,,gpa-14
+down_gpcr,Galpha,,,,gpa-15
+down_gpcr,Galpha,,,,gpa-16
+down_gpcr,Galpha,,,,gpa-17
+down_gpcr,Galpha,,,,odr-3
+down_gpcr,Gbeta,,,,gpb-1
+down_gpcr,Gbeta,,,,gpb-2
+down_gpcr,Ggamma,,,,gpc-1
+down_gpcr,Ggamma,,,,gpc-2
+down_gpcr,RGS ,,,,axl-1
+down_gpcr,RGS ,,,,eat-16
+down_gpcr,RGS ,,,,egl-10
+down_gpcr,RGS ,,,,grk-1
+down_gpcr,RGS ,,,,grk-2
+down_gpcr,RGS ,,,,pry-1
+down_gpcr,RGS ,,,,rgs-10
+down_gpcr,RGS ,,,,rgs-11
+down_gpcr,RGS ,,,,rgs-2
+down_gpcr,RGS ,,,,rgs-3
+down_gpcr,RGS ,,,,rgs-4
+down_gpcr,RGS ,,,,rgs-5
+down_gpcr,RGS ,,,,rgs-6
+down_gpcr,RGS ,,,,rgs‐1
+down_gpcr,RGS ,,,,rgs‐7
+down_gpcr,RGS ,,,,rgs‐8.1
+down_gpcr,RGS ,,,,rgs‐8.2
+down_gpcr,RGS ,,,,rgs‐9
+down_gpcr,RGS ,,,,rhgf-1
+down_gpcr,RGS ,,,,snx-13
+down_gpcr,RGS ,,,,snx-14
+down_gpcr,GRK,,,,grk-1
+down_gpcr,GRK,,,,grk-2
+down_gpcr,GPR/GoLoco,,,,gpr-1 (ags-3.2)
+down_gpcr,GPR/GoLoco,,,,gpr-2 (ags-3.3)
+down_gpcr,GPR/GoLoco,,,,ags-3
+down_gpcr,Galpha_GEF,,,,ric-8
+down_gpcr,arrestin_beta,,,,arr-1
+down_gpcr,arrestin_related,,,,arrd-1
+down_gpcr,arrestin_related,,,,arrd-2
+down_gpcr,arrestin_related,,,,arrd-3
+down_gpcr,arrestin_related,,,,arrd-4
+down_gpcr,arrestin_related,,,,arrd-5
+down_gpcr,arrestin_related,,,,arrd-6
+down_gpcr,arrestin_related,,,,arrd-7
+down_gpcr,arrestin_related,,,,arrd-8
+down_gpcr,arrestin_related,,,,arrd-9
+down_gpcr,arrestin_related,,,,arrd-10
+down_gpcr,arrestin_related,,,,arrd-11
+down_gpcr,arrestin_related,,,,arrd-12
+down_gpcr,arrestin_related,,,,arrd-13
+down_gpcr,arrestin_related,,,,arrd-14
+down_gpcr,arrestin_related,,,,arrd-15
+down_gpcr,arrestin_related,,,,arrd-16
+down_gpcr,arrestin_related,,,,arrd-17
+down_gpcr,arrestin_related,,,,arrd-18
+down_gpcr,arrestin_related,,,,arrd-19
+down_gpcr,arrestin_related,,,,arrd-20
+down_gpcr,arrestin_related,,,,arrd-21
+down_gpcr,arrestin_related,,,,arrd-22
+down_gpcr,arrestin_related,,,,arrd-23
+down_gpcr,arrestin_related,,,,arrd-24
+down_gpcr,arrestin_related,,,,arrd-25
+down_gpcr,arrestin_related,,,,arrd-26
+down_gpcr,arrestin_related,,,,arrd-27
+down_gpcr,arrestin_related,,,,arrd-28
+down_gpcr,arrestin_related,,,,rnh-1.2
+down_gpcr,arrestin_related,,,,ttm-2
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,daf-11
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,odr-1
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-1
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-2
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-3
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-4
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-5
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-6
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-7
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-8
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-9
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-12
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-13
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-14
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-15
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-17
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-18
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-19
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-20
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-22
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-23
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-25
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-28
+cyclic_nucl_metabolism,Receptor-type GCY,ANF_receptor,,,gcy-29
+cyclic_nucl_metabolism,Receptor-type GCY,Ex_domain,,,gcy-11
+cyclic_nucl_metabolism,Receptor-type GCY,Ex_domain,,,gcy-21
+cyclic_nucl_metabolism,Receptor-type GCY,none,,,gcy-27
+cyclic_nucl_metabolism,soluble_gcy,,,,gcy-31
+cyclic_nucl_metabolism,soluble_gcy,,,,gcy-32
+cyclic_nucl_metabolism,soluble_gcy,,,,gcy-33
+cyclic_nucl_metabolism,soluble_gcy,,,,gcy-34
+cyclic_nucl_metabolism,soluble_gcy,,,,gcy-35
+cyclic_nucl_metabolism,soluble_gcy,,,,gcy-36
+cyclic_nucl_metabolism,soluble_gcy,,,,gcy-37
+cyclic_nucl_metabolism,cgmp_pde,,,,pde-1 (hPDE1 ortholog)
+cyclic_nucl_metabolism,cgmp_pde,,,,pde-2 (hPDE2 ortholog)
+cyclic_nucl_metabolism,cgmp_pde,,,,pde-3 (hPDE3 ortholog)
+cyclic_nucl_metabolism,cgmp_pde,,,,pde-5 (hPDE10 ortholog)
+cyclic_nucl_metabolism,camp_pde,,,,pde-4 (hPDE4 ortholog)
+cyclic_nucl_metabolism,camp_pde,,,,pde-6 (hPDE8 ortholog)
+rec_co2_o2,Carbonic anhydrase,,,,cah-1
+rec_co2_o3,Carbonic anhydrase,,,,cah-2
+rec_co2_o4,Carbonic anhydrase,,,,cah-3
+rec_co2_o5,Carbonic anhydrase,,,,cah-4
+rec_co2_o6,Carbonic anhydrase,,,,cah-5
+rec_co2_o7,Carbonic anhydrase,,,,cah-6
+rec_co2_o8,Globin,,,,glb-1
+rec_co2_o9,Globin,,,,glb-2
+rec_co2_o10,Globin,,,,glb-3
+rec_co2_o11,Globin,,,,glb-4
+rec_co2_o12,Globin,,,,glb-5
+rec_co2_o13,Globin,,,,glb-6
+rec_co2_o14,Globin,,,,glb-7
+rec_co2_o15,Globin,,,,glb-8
+rec_co2_o16,Globin,,,,glb-9
+rec_co2_o17,Globin,,,,glb-10
+rec_co2_o18,Globin,,,,glb-11
+rec_co2_o19,Globin,,,,glb-12
+rec_co2_o20,Globin,,,,glb-13
+rec_co2_o21,Globin,,,,glb-14
+rec_co2_o22,Globin,,,,glb-15
+rec_co2_o23,Globin,,,,glb-16
+rec_co2_o24,Globin,,,,glb-17
+rec_co2_o25,Globin,,,,glb-18
+rec_co2_o26,Globin,,,,glb-19
+rec_co2_o27,Globin,,,,glb-20
+rec_co2_o28,Globin,,,,glb-21
+rec_co2_o29,Globin,,,,glb-22
+rec_co2_o30,Globin,,,,glb-23
+rec_co2_o31,Globin,,,,glb-24
+rec_co2_o32,Globin,,,,glb-25
+rec_co2_o33,Globin,,,,glb-26
+rec_co2_o34,Globin,,,,glb-27
+rec_co2_o35,Globin,,,,glb-28
+rec_co2_o36,Globin,,,,glb-29
+rec_co2_o37,Globin,,,,glb-30
+rec_co2_o38,Globin,,,,glb-31
+rec_co2_o39,Globin,,,,glb-32
+rec_co2_o40,Globin,,,,glb-33
+synaptic_ves,Calcium sensor for vesicle release,synaptotagmin,,,snt-1
+synaptic_ves,Calcium sensor for vesicle release,synaptotagmin,,,snt-2
+synaptic_ves,Calcium sensor for vesicle release,synaptotagmin,,,snt-3
+synaptic_ves,Calcium sensor for vesicle release,synaptotagmin,,,snt-4
+synaptic_ves,Calcium sensor for vesicle release,synaptotagmin,,,snt-5
+synaptic_ves,Calcium sensor for vesicle release,synaptotagmin,,,snt-6
+synaptic_ves,Calcium sensor for vesicle release,synaptotagmin,,,snt-7
+synaptic_ves,R-SNARE,VAMP/synaptobrevin,,,snb-1
+synaptic_ves,R-SNARE,VAMP/synaptobrevin,,,snb-2
+synaptic_ves,R-SNARE,VAMP/synaptobrevin,,,snb-5
+synaptic_ves,R-SNARE,VAMP/synaptobrevin,,,snb-6
+synaptic_ves,R-SNARE,VAMP/synaptobrevin,,,snb-7
+synaptic_ves,R-SNARE,VAMP/synaptobrevin,,,vamp-7
+synaptic_ves,R-SNARE,VAMP/synaptobrevin,,,vamp-8
+synaptic_ves,R-SNARE,VAMP/synaptobrevin,,,sec-22
+synaptic_ves,R-SNARE,VAMP/synaptobrevin,,,ykt-6
+synaptic_ves,Q SNARE,Qa subtype,,,unc-64 (syx-1)
+synaptic_ves,Q SNARE,Qa subtype,,,syx-2
+synaptic_ves,Q SNARE,Qa subtype,,,syx-3
+synaptic_ves,Q SNARE,Qa subtype,,,syx-4
+synaptic_ves,Q SNARE,Qa subtype,,,syx-5
+synaptic_ves,Q SNARE,Qa subtype,,,syx-7
+synaptic_ves,Q SNARE,Qa subtype,,,syx-16
+synaptic_ves,Q SNARE,Qa subtype,,,syx-17
+synaptic_ves,Q SNARE,Qa subtype,,,syx-18
+synaptic_ves,Q SNARE,Qb subtype,,,gos-28
+synaptic_ves,Q SNARE,Qb subtype,,,memb-1
+synaptic_ves,Q SNARE,Qb subtype,,,memb-2
+synaptic_ves,Q SNARE,Qb subtype,,,sec-20
+synaptic_ves,Q SNARE,Qb subtype,,,vti-1
+synaptic_ves,Q SNARE,Qc subtype,,,syx-6
+synaptic_ves,Q SNARE,Qc subtype,,,nbet-1
+synaptic_ves,Q SNARE,Qc subtype,,,use-1
+synaptic_ves,Q SNARE,Qb/c subtype,,,ric-4 (snap-25)
+synaptic_ves,Q SNARE,Qb/c subtype,,,aex-4
+synaptic_ves,Q SNARE,Qb/c subtype,,,snap-29
+synaptic_ves,tetraspan_vesicle_proteins,,,,sng-1
+synaptic_ves,tetraspan_vesicle_proteins,,,,sph-1
+synaptic_ves,tetraspan_vesicle_proteins,,,,scm-1
+synaptic_ves,Other,,,,snn-1
+synaptic_ves,Other,,,,svop-1
+synaptic_ves,Other,,,,dnj-14
+synaptic_ves,Other,,,,rab-3
+synaptic_ves,Other,,,,rbf-1
+synaptic_ves,Other,,,,unc-10
+synaptic_ves,Other,,,,elks-1
+synaptic_ves,Other,,,,unc-18
+synaptic_ves,Other,,,,T07A9.103
+synaptic_ves,Other,,,,unc-13
+synaptic_ves,Other,,,,unc-26
+synaptic_ves,Other,,,,unc-57
+synaptic_ves,Other,,,,erp-1
+synaptic_ves,Other,,,,cpx-1
+synaptic_ves,Other,,,,cpx-2
+synaptic_ves,Other,,,,tom-1
+synaptic_ves,Other,,,,unc-31
+synaptic_ves,Other,,,,ida-1
+pdz_containing,PDZ only,,,,mpz-1
+pdz_containing,PDZ only,,,,par-3
+pdz_containing,PDZ only,,,,C01F6.6/mpz-2
+pdz_containing,PDZ only,,,,mpz-3
+pdz_containing,PDZ only,,,,mpz-4
+pdz_containing,PDZ only,,,,mpz-5
+pdz_containing,PDZ only,,,,mpz-6
+pdz_containing,PDZ only,,,,Y42H9AR.1
+pdz_containing,PDZ only,,,,T21G5.4
+pdz_containing,PDZ only,,,,C25G4.6
+pdz_containing,PDZ only,,,,gipc-1
+pdz_containing,PDZ only,,,,gipc-2
+pdz_containing,PDZ only,,,,gopc-1
+pdz_containing,PDZ only,,,,gras-1
+pdz_containing,PDZ only,,,,mics-1
+pdz_containing,PDZ only,,,,C09G1.4
+pdz_containing,PDZ only,,,,C46H11.6
+pdz_containing,PDZ only,,,,C50D2.3
+pdz_containing,PDZ only,,,,C52A11.3
+pdz_containing,PDZ only,,,,F23C8.13
+pdz_containing,PDZ only,,,,F40F9.3
+pdz_containing,PDZ only,,,,T15H9.4
+pdz_containing,PDZ only,,,,ZK849.1
+pdz_containing,PDZ only,,,,Y52E8A.1
+pdz_containing,PDZ only,,,,C01B7.5
+pdz_containing,PDZ only,,,,T19B10.5
+pdz_containing,PDZ only,,,,psmd-9
+pdz_containing,PDZ only,,,,C45G9.7
+pdz_containing,PDZ only,,,,F16G10.5
+pdz_containing,PDZ only,,,,F20D6.1
+pdz_containing,PDZ only,,,,mics-1
+pdz_containing,MAGUK,,,,dlg-1
+pdz_containing,MAGUK,,,,lin-2
+pdz_containing,MAGUK,,,,magu-1
+pdz_containing,MAGUK,,,,magu-2
+pdz_containing,MAGUK,,,,magu-3
+pdz_containing,MAGUK,,,,magu-4
+pdz_containing,MAGUK,,,,zoo-1
+pdz_containing,MAGUK,,,,magi-1
+pdz_containing,MAGUK,,,,frm-5.1
+pdz_containing,MAGUK,,,,frm-5.2
+pdz_containing,MAGUK,,,,frm-8
+pdz_containing,MAGUK,,,,ptp-1
+pdz_containing,Others,,,,cnk-1
+pdz_containing,Others,,,,kin-4
+pdz_containing,Others,,,,sipa-1
+pdz_containing,Others,,,,afd-1
+pdz_containing,Others,,,,lin-10
+pdz_containing,Others,,,,alp-1
+pdz_containing,Others,,,,ZK1321.4
+pdz_containing,Others,,,,nab-1
+pdz_containing,Others,,,,snx-27
+pdz_containing,Others,,,,stn-2
+pdz_containing,Others,,,,stn-1
+pdz_containing,Others,,,,lim-8
+pdz_containing,Others,,,,syd-1
+pdz_containing,Others,,,,F45E4.3
+pdz_containing,Others,,,,unc-10
+pdz_containing,Others,,,,rhgf-1
+pdz_containing,Others,,,,C53B4.4
+pdz_containing,Others,,,,Y57G11C.22
+pdz_containing,Others,,,,par-6
+pdz_containing,Others,,,,let-413
+pdz_containing,Others,,,,lap-1
+pdz_containing,Others,,,,lin-7
+pdz_containing,Others,,,,mig-5
+pdz_containing,Others,,,,dsh-2
+pdz_containing,Others,,,,dsh-1
+pdz_containing,Others,,,,pxf-1
+pdz_containing,Others,,,,shn-1
+innexin,,,,,unc-7
+innexin,,,,,unc-9
+innexin,,,,,eat-5
+innexin,,,,,inx-1
+innexin,,,,,inx-2
+innexin,,,,,inx-3
+innexin,,,,,inx-4
+innexin,,,,,inx-5
+innexin,,,,,inx-6
+innexin,,,,,inx-7
+innexin,,,,,inx-8
+innexin,,,,,inx-9
+innexin,,,,,inx-10
+innexin,,,,,inx-11
+innexin,,,,,inx-12
+innexin,,,,,inx-13
+innexin,,,,,inx-14
+innexin,,,,,inx-15
+innexin,,,,,inx-16
+innexin,,,,,inx-17
+innexin,,,,,inx-18
+innexin,,,,,inx-19
+innexin,,,,,inx-20
+innexin,,,,,inx-21
+innexin,,,,,inx-22
+kinesin,Kinesin-1,,,,unc-116
+kinesin,Kinesin-2,,,,osm-3
+kinesin,Kinesin-2,,,,klp-11
+kinesin,Kinesin-2,,,,klp-20
+kinesin,Kinesin-3,,,,unc-104
+kinesin,Kinesin-3,,,,klp-4
+kinesin,Kinesin-3,,,,klp-6
+kinesin,Kinesin-4,,,,klp-12
+kinesin,Kinesin-4,,,,klp-19
+kinesin,Kinesin-5,,,,bmk-1
+kinesin,Kinesin-6,,,,zen-4
+kinesin,Kinesin-12,,,,klp-10
+kinesin,Kinesin-12,,,,klp-18
+kinesin,Kinesin-13,,,,klp-7
+kinesin,Kinesin-14,,,,klp-3
+kinesin,Kinesin-14,,,,klp-15
+kinesin,Kinesin-14,,,,klp-16
+kinesin,Kinesin-14,,,,klp-17
+kinesin,atypical,,,,vab-8
+kinesin,atypical,,,,klp-8
+kinesin,atypical,,,,klp-13
+Dynein,Heavy chain,,,,dhc-1
+Dynein,Heavy chain,,,,che-3 (dhc-2)
+Dynein,Heavy chain,,,,dhc-3*
+Dynein,Heavy chain,,,,dhc-4*
+Dynein,Intermediate chain,,,,dyci-1
+Dynein,light_intermediate,,,,xbx-1
+Dynein,light_intermediate,,,,dli-1
+Dynein,light_lc8,,,,dlc-1
+Dynein,light_lc8,,,,dlc-2
+Dynein,light_lc8,,,,dlc-3
+Dynein,light_lc8,,,,dlc-4
+Dynein,light_lc8,,,,dlc-5
+Dynein,light_lc8,,,,dlc-6
+Dynein,Light_Tctex1,,,,dylt-1
+Dynein,Light_Tctex1,,,,dylt-2 (xbx-2)
+Dynein,Light_Tctex1,,,,dylt-3
+Dynein,Light_Roadblock,,,,dyrb-1
+Myosin,,,,,hum-1
+Myosin,,,,,hum-2
+Myosin,,,,,spe-15 (hum-3)
+Myosin,,,,,hum-4
+Myosin,,,,,hum-5
+Myosin,,,,,hum-6
+Myosin,,,,,hum-7
+Myosin,,,,,hum-8
+Myosin,,,,,hum-9
+Myosin,,,,,hum-10
+Myosin,,,,,nmy-1
+Myosin,,,,,nmy-2
+Myosin,,,,,myo-1
+Myosin,,,,,myo-2
+Myosin,,,,,myo-3
+Myosin,,,,,unc-54 (myo-4)
+Myosin,,,,,myo-5
+Myosin,,,,,myo-6
+cilia_transport,Kinesin-II,,,,klp-11
+cilia_transport,Kinesin-II,,,,klp-20
+cilia_transport,Kinesin-II,,,,kap-1
+cilia_transport,OSM-3 Kinesin,,,,osm-3
+cilia_transport,IFT-Dynein,,,,che-3
+cilia_transport,IFT-Dynein,,,,xbx-1
+cilia_transport,IFT-Dynein,,,,dyci-1
+cilia_transport,IFT-Dynein,,,,xbx-2
+cilia_transport,IFT-A,,,,dyf-2
+cilia_transport,IFT-A,,,,che-11
+cilia_transport,IFT-A,,,,ZK328.7
+cilia_transport,IFT-A,,,,daf-10
+cilia_transport,IFT-A,,,,ifta-1
+cilia_transport,IFT-B,,,,osm-1
+cilia_transport,IFT-B,,,,osm-5
+cilia_transport,IFT-B,,,,ift-81
+cilia_transport,IFT-B,,,,che-2
+cilia_transport,IFT-B,,,,ift-74
+cilia_transport,IFT-B,,,,dyf-1
+cilia_transport,IFT-B,,,,che-13
+cilia_transport,IFT-B,,,,dyf-11
+cilia_transport,IFT-B,,,,osm-6
+cilia_transport,IFT-B,,,,dyf-6
+cilia_transport,IFT-B,,,,ifta-2
+cilia_transport,IFT-B,,,,Y110A7A.20
+cilia_transport,IFT-B,,,,dyf-3
+cilia_transport,IFT-B,,,,dyf-13
+cilia_transport,BBSome,,,,bbs-1
+cilia_transport,BBSome,,,,bbs-2
+cilia_transport,BBSome,,,,arl-6
+cilia_transport,BBSome,,,,bbs-4
+cilia_transport,BBSome,,,,bbs-5
+cilia_transport,BBSome,,,,osm-12
+cilia_transport,BBSome,,,,bbs-8
+cilia_transport,BBSome,,,,bbs-9
+extracell_ig,,,,,cam-1
+extracell_ig,,,,,egl-15
+extracell_ig,,,,,ver-1
+extracell_ig,,,,,ver-3
+extracell_ig,,,,,ver-4
+extracell_ig,,,,,clr-1
+extracell_ig,,,,,ptp-3
+extracell_ig,,,,,ptp-4
+extracell_ig,,,,,dig-1
+extracell_ig,,,,,him-4
+extracell_ig,,,,,unc-52
+extracell_ig,,,,,igcm-1
+extracell_ig,,,,,igcm-2
+extracell_ig,,,,,igcm-3
+extracell_ig,,,,,igcm-4
+extracell_ig,,,,,mig-6
+extracell_ig,,,,,oig-1
+extracell_ig,,,,,oig-2
+extracell_ig,,,,,oig-3
+extracell_ig,,,,,oig-4
+extracell_ig,,,,,oig-5
+extracell_ig,,,,,oig-6
+extracell_ig,,,,,oig-7
+extracell_ig,,,,,oig-8
+extracell_ig,,,,,rig-1
+extracell_ig,,,,,rig-3
+extracell_ig,,,,,rig-4
+extracell_ig,,,,,rig-5
+extracell_ig,,,,,rig-6
+extracell_ig,,,,,ncam-1
+extracell_ig,,,,,sax-3
+extracell_ig,,,,,sax-7
+extracell_ig,,,,,lad-2
+extracell_ig,,,,,syg-1
+extracell_ig,,,,,syg-2
+extracell_ig,,,,,unc-40
+extracell_ig,,,,,unc-5
+extracell_ig,,,,,wrk-1
+extracell_ig,,,,,zig-1
+extracell_ig,,,,,zig-2
+extracell_ig,,,,,zig-3
+extracell_ig,,,,,zig-4
+extracell_ig,,,,,zig-5
+extracell_ig,,,,,zig-6
+extracell_ig,,,,,zig-7
+extracell_ig,,,,,zig-8
+extracell_ig,,,,,zig-9
+extracell_ig,,,,,zig-10
+extracell_ig,,,,,igeg-1
+extracell_ig,,,,,igeg-2
+extracell_ig,,,,,igdb-1
+extracell_ig,,,,,igdb-2
+extracell_ig,,,,,igdb-3
+extracell_ig,,,,,madd-4
+extracell_ig_lrr,,,,,pxn-1
+extracell_ig_lrr,,,,,pxn-2
+extracell_ig_lrr,,,,,sma-10
+extracell_ig_lrr,,,,,iglr-1
+extracell_ig_lrr,,,,,iglr-2
+extracell_ig_lrr,,,,,iglr-3
+extracell_lrr,,,,,fshr-1
+extracell_lrr,,,,,slt-1 
+extracell_lrr,,,,,tol-1
+extracell_lrr,,,,,pan-1
+extracell_lrr,,,,,let-4
+extracell_lrr,,,,,egg-6
+extracell_lrr,,,,,dma-1
+extracell_lrr,,,,,lron-1
+extracell_lrr,,,,,lron-2
+extracell_lrr,,,,,lron-3
+extracell_lrr,,,,,lron-4
+extracell_lrr,,,,,lron-5
+extracell_lrr,,,,,lron-6
+extracell_lrr,,,,,lron-7
+extracell_lrr,,,,,lron-8
+extracell_lrr,,,,,lron-9
+extracell_lrr,,,,,lron-10
+extracell_lrr,,,,,lron-11
+extracell_lrr,,,,,lron-12
+extracell_lrr,,,,,lron-13
+extracell_lrr,,,,,lron-14
+extracell_lrr,,,,,lron-15
+extracell_lrr,,,,,sym-1
+Cadherin,,,,,hmr-1
+Cadherin,,,,,cdh-3
+Cadherin,,,,,cdh-4
+Cadherin,,,,,casy-1
+Cadherin,,,,,cdh-1
+Cadherin,,,,,cdh-5
+Cadherin,,,,,cdh-7
+Cadherin,,,,,cdh-8
+Cadherin,,,,,cdh-9
+Cadherin,,,,,cdh-10
+Cadherin,,,,,cdh-12
+Cadherin,,,,,Y37E11AL.6
+Neurexin,,,,,nrx-1
+Neurexin,,,,,itx-1
+Neurexin,,,,,nlr-1
+Neurexin,,,,,bam-2
+neurexin_ligand,,,,,lat-1
+neurexin_ligand,,,,,lat-2
+neurexin_ligand,,,,,nlg-1
+neurexin_ligand,,,,,glit-1
