@@ -1,4 +1,4 @@
-Package: splDatasets
+Package: wormDatasets
 Type: Package
 Title: Some Datasets Related To Splicing And Neurons In Worms
 Version: 0.1.0
