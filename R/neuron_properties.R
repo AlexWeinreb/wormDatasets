@@ -1,6 +1,6 @@
 #' Various properties of neuron classes
 #'
-#' Data collected by Alec Barret and others.
+#' Data collected by Alec Barrett and others.
 #'
 #'
 #'

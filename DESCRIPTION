@@ -1,16 +1,17 @@
 Package: wormDatasets
 Type: Package
 Title: Some Datasets Related To Splicing And Neurons In Worms
-Version: 0.1.0
+Version: 0.2.0
 Author: Alexis Weinreb
 Maintainer: Alexis Weinreb <alexis.weinreb@yale.edu>
 Description: A small collection of datasets.
-    See the corresponding help pages.
+    More details in the corresponding help pages. See the corresponding papers for licence
+    and citation information of the individual datasets.
 License: CC0
 Encoding: UTF-8
 LazyData: true
 Depends: 
     R (>= 2.10)
-RoxygenNote: 7.2.2
+RoxygenNote: 7.2.3
 URL: https://github.com/AlexWeinreb/wormDatasets
 BugReports: https://github.com/AlexWeinreb/wormDatasets/issues

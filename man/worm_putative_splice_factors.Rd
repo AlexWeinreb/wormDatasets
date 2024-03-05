@@ -22,6 +22,6 @@ worm_putative_splice_factors
 Based on a literature review, a list of genes that may be splice factors (SF) in worms.
 }
 \details{
-This can be based on direct experimental evidence, orthology, or other sequnce features.
+This can be based on direct experimental evidence, orthology, or other sequence features.
 }
 \keyword{datasets}

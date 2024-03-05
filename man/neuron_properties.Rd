@@ -18,6 +18,6 @@ A data frame 128 × 27:
 neuron_properties
 }
 \description{
-Data collected by Alec Barret and others.
+Data collected by Alec Barrett and others.
 }
 \keyword{datasets}
